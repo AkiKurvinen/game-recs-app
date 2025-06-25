@@ -1,0 +1,11 @@
+[{
+    "title": "game",
+    "publisher": "game",
+    "developer": "game Assembly",
+    "year": 1000,
+    "tags": [ "stealth", "liner", "singleplayer"],
+    "trailer": "https://www.youtube.com/watch?v=xyz",
+    "franchise": "alien",
+    "steam": "https://store.steampowered.com/app/000"
+  }
+]

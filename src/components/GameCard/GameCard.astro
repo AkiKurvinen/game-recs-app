@@ -37,7 +37,12 @@ const video_id = getYouTubeVideoId(game.trailer);
       </div>
       <div class="flex flex-wrap gap-2 mt-2">
         {game.tags && (Array.isArray(game.tags) ? game.tags : []).map((tag: string) => (
-          <span class="border border-blue-300 text-blue-300 rounded-full px-3 py-0.5 text-sm">{tag}</span>
+          <span class={
+            `rounded-full px-3 py-0.5 text-sm border ` +
+            (tag === 'extinct'
+              ? 'border-red-400 text-red-100 bg-red-900'
+              : 'border-blue-300 text-blue-300')
+          }>{tag}</span>
         ))}
       </div>
     </div>

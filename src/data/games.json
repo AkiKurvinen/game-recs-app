@@ -1,0 +1,541 @@
+[
+
+    {
+      "title": "Dishonored",
+      "publisher": "Bethesda Softworks",
+      "developer": "Arkane Studios",
+      "year": 2012,
+      "tags": ["stealth", "linear", "supernatural", "singleplayer"],
+      "trailer": "https://www.youtube.com/watch?v=IyDvT7XpaBc",
+      "franchise": "dishonored",
+      "steam": "https://store.steampowered.com/app/205100/Dishonored/"
+    },
+    {
+      "title": "Dishonored 2",
+      "publisher": "Bethesda Softworks",
+      "developer": "Arkane Studios",
+      "year": 2016,
+      "tags": ["stealth", "linear", "singleplayer"],
+      "trailer": "https://www.youtube.com/watch?v=7bLNC8VDTlQ",
+      "franchise": "dishonored",
+      "steam": "https://store.steampowered.com/app/403640/Dishonored_2/"
+    },
+    {
+      "title": "Dishonored: The Knife of Dunwall",
+      "publisher": "Bethesda Softworks",
+      "developer": "Arkane Studios",
+      "year": 2013,
+      "tags": ["stealth", "linear", "dlc", "singleplayer"],
+      "trailer": "https://www.youtube.com/watch?v=yuXD-Yt4flc",
+      "franchise": "dishonored",
+      "steam": "https://store.steampowered.com/app/208575/Dishonored__The_Knife_of_Dunwall/"
+    },
+    {
+      "title": "Dishonored: The Brigmore Witches",
+      "publisher": "Bethesda Softworks",
+      "developer": "Arkane Studios",
+      "year": 2013,
+      "tags": ["stealth", "linear", "dlc", "singleplayer"],
+      "trailer": "https://www.youtube.com/watch?v=Rp6hY003tKs",
+      "franchise": "dishonored",
+      "steam": "https://store.steampowered.com/agecheck/app/212894/"
+    },
+    {
+      "title": "Dishonored: Death of the Outsider",
+      "publisher": "Bethesda Softworks",
+      "developer": "Arkane Studios",
+      "year": 2017,
+      "tags": ["stealth", "linear", "dlc", "singleplayer"],
+      "trailer": "https://www.youtube.com/watch?v=Nea82Rt5vRI",
+      "franchise": "dishonored",
+      "steam": "https://store.steampowered.com/agecheck/app/614570/"
+    },
+    {
+      "title": "Tom Clancy's Splinter Cell: Blacklist",
+      "publisher": "Ubisoft",
+      "developer": "Ubisoft Toronto",
+      "year": 2013,
+      "tags": ["stealth", "linear",  "singleplayer"],
+      "trailer": "https://www.youtube.com/watch?v=6H5vZ5QIYSI",
+      "franchise": "splinter_cell",
+      "steam": null
+    },
+    {
+      "title": "Tom Clancy's Splinter Cell: Conviction",
+      "publisher": "Ubisoft",
+      "developer": "Ubisoft Montreal",
+      "year": 2010,
+      "tags": ["stealth", "linear", "singleplayer"],
+      "trailer": "https://www.youtube.com/watch?v=6Ww_IFU6kg4",
+      "franchise": "splinter_cell",
+      "steam": null
+    }, 
+   
+    {
+      "title": "Velvet Assassin",
+      "publisher": "Missing Link Games",
+      "developer": "Replay Studios",
+      "year": 2009,
+      "tags": ["stealth", "linear", "singleplayer"],
+      "trailer": "https://www.youtube.com/watch?v=vDsRqBQYMGM",
+      "franchise": "velvet_assassin",
+      "steam": "https://store.steampowered.com/app/16720/Velvet_Assassin/"
+    },
+    {
+      "title": "Clandestine",
+      "publisher": "Logic Artists",
+      "developer": "Logic Artists",
+      "year": 2015,
+      "tags": ["stealth", "linear", "singleplayer"],
+      "trailer": "https://www.youtube.com/watch?v=l5BF0fEFE58",
+      "franchise": "clandestine",
+      "steam": "https://store.steampowered.com/app/290530/Clandestine/"
+    },
+    {
+      "title": "Alien: Isolation",
+      "publisher": "Sega",
+      "developer": "Creative Assembly",
+      "year": 2014,
+      "tags": [ "stealth", "liner", "horror","singleplayer"],
+      "trailer": "https://www.youtube.com/watch?v=7h0cgmvIrZw",
+      "franchise": "alien",
+      "steam": "https://store.steampowered.com/app/214490/Alien_Isolation/"
+    },
+    {
+      "title": "Unknown 9: Awakening",
+      "publisher": "Bandai Namco Entertainment",
+      "developer": "Reflector Entertainment",
+      "year": 2024,
+      "tags": ["stealth", "linear", "action-adventure", "singleplayer"],
+      "trailer": "https://www.youtube.com/watch?v=jpO-jUWtm6E",
+      "franchise": "unknown_9",
+      "steam": "https://store.steampowered.com/app/1477940/Unknown_9_Awakening/"
+    },
+    {
+      "title": "Werewolf: The Apocalypse - Earthblood",
+      "publisher": "Bigben Interactive",
+      "developer": "Cyanide SA",
+      "year": 2021,
+      "tags": ["stealth", "linear", "supernatural", "singleplayer" ],
+      "trailer": "https://www.youtube.com/watch?v=DKrnB9gJxjQ",
+      "franchise": "werewolf_the_apocalypse",
+      "steam": "https://store.steampowered.com/agecheck/app/679110/"
+    },
+    {
+      "title": "Batman: Arkham Knight",
+      "publisher": "Warner Bros. Interactive Entertainment",
+      "developer": "Rocksteady Studios",
+      "year": 2015,
+      "tags": [ "stealth","open-world","fighting",  "singleplayer"],
+      "trailer": "https://www.youtube.com/watch?v=wsf78BS9VE0",
+      "franchise": "batman_arkham",
+      "steam": "https://store.steampowered.com/app/208650/Batman_Arkham_Knight/"
+    },
+    {
+        "title": "Batman: Arkham City",
+        "publisher": "Warner Bros. Interactive Entertainment",
+        "developer": "Rocksteady Studios",
+        "year": 2011,
+        "tags": [ "stealth","open-world", "fighting", "singleplayer"],
+        "trailer": "https://www.youtube.com/watch?v=MlX--IPxTRU",
+        "franchise": "batman_arkham",
+        "steam": "https://store.steampowered.com/app/200260/Batman_Arkham_City/"
+    },
+    {
+      "title": "Batman: Arkham Asylum",
+      "publisher": "Eidos Interactive",
+      "developer": "Rocksteady Studios",
+      "year": 2009,
+      "tags": [ "stealth","open-world", "fighting", "singleplayer"],
+      "trailer": "https://www.youtube.com/watch?v=T8bu2Y_cZb8",
+      "franchise": "batman_arkham",
+      "steam": "https://store.steampowered.com/app/35140/Batman_Arkham_Asylum/"
+    },
+    {
+        "title": "Hitman: Absolution",
+        "publisher": "Square Enix",
+        "developer": "IO Interactive",
+        "year": 2012,
+        "tags": ["stealth", "linear", "action", "singleplayer"],
+        "trailer": "https://www.youtube.com/watch?v=Wu1Aii7scBo",
+        "franchise": "hitman",
+        "steam": "https://store.steampowered.com/agecheck/app/203140/"
+    },
+    {
+        "title": "Styx: Master of Shadows",
+        "publisher": "Focus Home Interactive",
+        "developer": "Cyanide Studio",
+        "year": 2014,
+        "tags": ["stealth", "linear", "singleplayer"],
+        "trailer": "https://www.youtube.com/watch?v=HpVuf0VZ-fs", 
+        "franchise": "styx",
+        "steam": "https://store.steampowered.com/app/242640/Styx_Master_of_Shadows/"
+      },
+      {
+        "title": "Styx: Shards of Darkness",
+        "publisher": "Focus Home Interactive",
+        "developer": "Cyanide Studio",
+        "year": 2017,
+        "tags": ["stealth", "linear", "singleplayer"],
+        "trailer": "https://www.youtube.com/watch?v=7J0MWEECYOY",
+        "franchise": "styx",
+        "steam": "https://store.steampowered.com/app/355790/Styx_Shards_of_Darkness/"
+      },
+      {
+        "title": "Thief",
+        "publisher": "Square Enix",
+        "developer": "Eidos-Montréal",
+        "year": 2014,
+        "tags": ["stealth", "linear", "singleplayer"],
+        "trailer": "https://www.youtube.com/watch?v=6FtOFv5oGEI",
+        "franchise": "thief",
+        "steam": "https://store.steampowered.com/app/239160/Thief/"
+      },
+      {
+        "title": "Deus Ex: Human Revolution",
+        "publisher": "Square Enix Europe",
+        "developer": "Eidos-Montréal",
+        "year": 2011,
+        "tags": ["action role-playing", "first-person shooter", "stealth", "singleplayer"],
+        "trailer": "https://www.youtube.com/watch?v=Kq5KWLqUewc",
+        "franchise": "deus_ex",
+        "steam": "https://store.steampowered.com/app/238010/Deus_Ex_Human_Revolution__Directors_Cut/"
+      },
+      {
+        "title": "Deus Ex: Mankind Divided",
+        "publisher": "Square Enix Europe",
+        "developer": "Eidos-Montréal",
+        "year": 2016,
+        "tags": ["action role-playing", "first-person shooter", "stealth", "singleplayer", "multiplayer"],
+        "trailer": "https://www.youtube.com/watch?v=uvSs5b6y-YM&t=2s",
+        "franchise": "deus_ex",
+        "steam": "https://store.steampowered.com/app/337000/Deus_Ex_Mankind_Divided/"
+      },
+      {
+        "title": "Deus Ex: The Fall",
+        "publisher": "Square Enix",
+        "developer": "N-Fusion Interactive",
+        "year": 2013,
+        "tags": ["action role-playing", "first-person shooter", "stealth", "singleplayer", "mobile"],
+        "trailer": "https://www.youtube.com/watch?v=MOhtC3zXW04",
+        "franchise": "deus_ex",
+        "steam":"https://store.steampowered.com/app/258180/Deus_Ex_The_Fall/"
+      },
+      {
+        "title": "Sniper Elite 3",
+        "publisher": "505 Games",
+        "developer": "Rebellion Developments",
+        "year": 2014,
+        "tags": ["tactical shooter", "stealth", "singleplayer", "multiplayer"],
+        "trailer": "https://www.youtube.com/watch?v=nsHcLZGQ81s",
+        "franchise": "sniper_elite",
+        "steam": "https://store.steampowered.com/app/238090/Sniper_Elite_3/"
+      },
+      {
+        "title": "Sniper Elite 4",
+        "publisher": "Rebellion Developments",
+        "developer": "Rebellion Developments",
+        "year": 2017,
+        "tags": ["tactical shooter", "stealth", "singleplayer", "multiplayer"],
+        "trailer": "https://www.youtube.com/watch?v=lGBRAEvXZ94",
+        "franchise": "sniper_elite",
+        "steam": "https://store.steampowered.com/app/312660/Sniper_Elite_4/"
+      },
+      {
+        "title": "Sniper Elite 5",
+        "publisher": "Rebellion Developments",
+        "developer": "Rebellion Developments",
+        "year": 2022,
+        "tags": ["tactical shooter", "stealth", "singleplayer", "multiplayer"],
+        "trailer": "https://www.youtube.com/watch?v=kcQX1djYtQw",
+        "franchise": "sniper_elite",
+        "steam":"https://store.steampowered.com/app/1029690/Sniper_Elite_5/"
+      },
+      {
+        "title": "Sniper: Ghost Warrior",
+        "publisher": "City Interactive",
+        "developer": "City Interactive",
+        "year": 2010,
+        "tags": ["tactical shooter", "stealth", "singleplayer"],
+        "trailer": "https://www.youtube.com/watch?v=DAAboSrACZ0",
+        "franchise": "sniper_ghost_warrior",
+        "steam": "https://store.steampowered.com/app/34830/Sniper_Ghost_Warrior/"
+      },
+      {
+        "title": "Sniper: Ghost Warrior 2",
+        "publisher": "City Interactive",
+        "developer": "City Interactive",
+        "year": 2013,
+        "tags": ["tactical shooter", "stealth", "singleplayer", "multiplayer"],
+        "trailer": "https://www.youtube.com/watch?v=MrionZpp0aE",
+        "franchise": "sniper_ghost_warrior",
+        "steam": "https://store.steampowered.com/app/34870/Sniper_Ghost_Warrior_2/"
+      },
+      {
+        "title": "Sniper: Ghost Warrior 3",
+        "publisher": "CI Games",
+        "developer": "CI Games",
+        "year": 2017,
+        "tags": ["tactical shooter", "stealth", "open-world", "singleplayer"],
+        "trailer": "",
+        "franchise": "sniper_ghost_warrior",
+        "steam": "https://store.steampowered.com/app/368070/Sniper_Ghost_Warrior_3/"
+      },
+      {
+        "title": "Sniper: Ghost Warrior Contracts",
+        "publisher": "CI Games",
+        "developer": "CI Games",
+        "year": 2019,
+        "tags": ["tactical shooter", "stealth", "singleplayer", "multiplayer"],
+        "trailer": "https://www.youtube.com/watch?v=9lrVWNQPImE",
+        "franchise": "sniper_ghost_warrior",
+        "steam": "https://store.steampowered.com/app/973580/Sniper_Ghost_Warrior_Contracts/"
+      },
+      {
+        "title": "Sniper: Ghost Warrior Contracts 2",
+        "publisher": "CI Games",
+        "developer": "CI Games",
+        "year": 2021,
+        "tags": ["tactical shooter", "stealth", "singleplayer", "multiplayer"],
+        "trailer": "Welcome to Kuamar Trailer (Apr 2021)",
+        "franchise": "sniper_ghost_warrior",
+        "steam": "https://store.steampowered.com/app/1338770/Sniper_Ghost_Warrior_Contracts_2/"
+      },
+      
+    {
+        "title": "Assassin's Creed III",
+        "publisher": "Ubisoft",
+        "developer": "Ubisoft Montreal",
+        "year": 2012,
+        "tags": [ "stealth", "open-world", "action-adventure","singleplayer"],
+        "trailer": "https://www.youtube.com/watch?v=-pUhraVG7Ow",
+        "franchise": "assassins_creed",
+        "steam": "https://store.steampowered.com/app/911400/Assassins_Creed_III_Remastered/"
+    },
+    {
+      "title": "DARK", "year": "2013", "franchise": "dark",
+      "publisher": "Kalypso Media Digital",
+      "developer":"Realmforge Studios"
+    },  
+    {
+        "title": "Assassin's Creed Syndicate",
+        "publisher": "Ubisoft",
+        "developer": "Ubisoft Quebec",
+        "year": 2015,
+        "tags": [ "stealth", "open-world", "action-adventure","singleplayer"],
+        "trailer": "https://www.youtube.com/watch?v=WTBbwgsyxvg",
+        "franchise": "assassins_creed",
+        "steam": "https://store.steampowered.com/app/368500/Assassins_Creed_Syndicate/"
+    },
+    {
+        "title": "Assassin's Creed Unity",
+        "publisher": "Ubisoft",
+        "developer": "Ubisoft Montreal",
+        "year": 2014,
+        "tags": [ "stealth", "open-world", "action-adventure", "singleplayer", "singleplayer"],
+        "trailer": "https://www.youtube.com/watch?v=xzCEdSKMkdU",
+        "franchise": "assassins_creed",
+        "steam": "https://store.steampowered.com/app/289650/Assassins_Creed_Unity/"
+      },{
+        "title": "The Evil Within 2",
+        "publisher": "Bethesda Softworks",
+        "developer": "Tango Gameworks",
+        "year": 2017,
+        "tags": ["horror", "action-adventure", "singleplayer"],
+        "trailer": "https://www.youtube.com/watch?v=v2THNGrmrck", 
+        "franchise": "the_evil_within",
+        "steam": null
+      },{
+        "title": "GYLT",
+        "publisher": "Tequila Works",
+        "developer": "Tequila Works, Parallel Circles",
+        "year": 2019,
+        "tags": ["horror", "stealth", "puzzle", "action-adventure", "singleplayer"],
+        "trailer": "https://www.youtube.com/watch?v=vnnY1GW_hog",
+        "franchise": "gylt",
+        "steam": "https://store.steampowered.com/app/2206210/GYLT/"
+      },{
+        "title": "Little Nightmares",
+        "publisher": "Bandai Namco Entertainment",
+        "developer": "Tarsier Studios",
+        "year": 2017,
+        "tags": ["puzzle-platform", "horror", "singleplayer"],
+        "trailer": "https://www.youtube.com/watch?v=aOadxZBsPiA",
+        "franchise": "little_nightmares",
+        "steam": null
+      },{
+        "title": "Murdered: Soul Suspect",
+        "publisher": "Square Enix",
+        "developer": "Airtight Games",
+        "year": 2014,
+        "tags": ["action-adventure", "stealth", "supernatural", "singleplayer"],
+        "trailer": "https://www.youtube.com/watch?v=hdG9M6fx1Gc",
+        "franchise": "murdered_soul_suspect",
+        "steam": null
+      },
+      {
+        "title": "Far Cry",
+        "publisher": "Ubisoft",
+        "developer": "Crytek",
+        "year": 2004,
+        "tags": ["first-person shooter", "singleplayer", "multiplayer", "open-world"],
+        "trailer": "",
+        "franchise": "far_cry",
+        "steam": null
+      },{
+        "title": "Far Cry 3",
+        "publisher": "Ubisoft",
+        "developer": "Ubisoft Montreal",
+        "year": 2012,
+        "tags": ["first-person shooter", "open-world", "singleplayer", "multiplayer"],
+        "trailer": "https://www.youtube.com/watch?v=--trailer--", 
+        "franchise": "far_cry",
+        "steam": null
+      },
+      {
+        "title": "Outlast",
+        "publisher": "Red Barrels",
+        "developer": "Red Barrels",
+        "year": 2013,
+        "tags": ["horror", "first-person", "singleplayer"],
+        "trailer": "https://www.youtube.com/watch?v=8QmhEEiF2JA",
+        "franchise": "outlast",
+        "steam": null
+      },
+      {
+        "title": "Outlast 2",
+        "publisher": "Red Barrels",
+        "developer": "Red Barrels",
+        "year": 2017,
+        "tags": ["horror", "first-person", "singleplayer"],
+        "trailer": "https://www.youtube.com/watch?v=JrMXH7V91u4",
+        "franchise": "outlast",
+        "steam": null
+      },
+      {
+        "title": "Amnesia: The Dark Descent",
+        "publisher": "Frictional Games",
+        "developer": "Frictional Games",
+        "year": 2010,
+        "tags": ["horror", "first-person", "singleplayer"],
+        "trailer": "https://www.youtube.com/watch?v=_T3o3-4Vqgo",
+        "franchise": "amnesia",
+        "steam": null
+      },
+      {
+        "title": "Amnesia: A Machine for Pigs",
+        "publisher": "Frictional Games",
+        "developer": "The Chinese Room",
+        "year": 2013,
+        "tags": ["horror", "first-person", "singleplayer"],
+        "trailer": "https://www.youtube.com/watch?v=OrVrD5UPzCM",
+        "franchise": "amnesia",
+        "steam": null
+      },
+      {
+        "title": "Amnesia: Rebirth",
+        "publisher": "Frictional Games",
+        "developer": "Frictional Games",
+        "year": 2020,
+        "tags": ["horror", "first-person", "singleplayer"],
+        "trailer": "https://www.youtube.com/watch?v=DyCWzTZ7eXY",
+        "franchise": "amnesia",
+        "steam": null
+      },
+      {
+        "title": "SOMA",
+        "publisher": "Frictional Games",
+        "developer": "Frictional Games",
+        "year": 2015,
+        "tags": ["horror", "first-person", "sci-fi", "singleplayer"],
+        "trailer": "https://www.youtube.com/watch?v=6u4ev_bSo9g",
+        "franchise": "soma",
+        "steam": null
+      },
+      {
+        "title": "A Plague Tale: Innocence",
+        "publisher": "Focus Home Interactive",
+        "developer": "Asobo Studio",
+        "year": 2019,
+        "tags": ["action-adventure", "stealth", "singleplayer"],
+        "trailer": "https://www.youtube.com/watch?v=K0_HM1vqlvY",
+        "franchise": "a_plague_tale",
+        "steam": null
+      },
+      {
+        "title": "A Plague Tale: Requiem",
+        "publisher": "Focus Home Interactive",
+        "developer": "Asobo Studio",
+        "year": 2022,
+        "tags": ["action-adventure", "stealth", "singleplayer"],
+        "trailer": "https://www.youtube.com/watch?v=x8O7Zl6ZDUg",
+        "franchise": "a_plague_tale",
+        "steam": null
+      },  {
+        "title": "Rogue Warrior",
+        "publisher": "Square Enix",
+        "developer": "Rebellion Developments",
+        "year": 2009,
+        "tags": ["first-person shooter", "singleplayer"],
+        "trailer": "https://www.youtube.com/watch?v=EHOPEK_9j1w",
+        "franchise": "rogue_warrior",
+        "steam": null
+      },
+      {
+        "title": "Rogue Trooper",
+        "publisher": "Eidos Interactive",
+        "developer": "Rebellion Developments",
+        "year": 2006,
+        "tags": ["third-person shooter", "singleplayer", "multiplayer"],
+        "trailer": "https://www.youtube.com/watch?v=ZebY2-51ap4",
+        "franchise": "rogue_trooper",
+        "steam": null
+      },{
+        "title": "Shadwen",
+        "publisher": "Frozenbyte",
+        "developer": "Frozenbyte",
+        "year": 2016,
+        "tags": ["stealth", "action", "singleplayer"],
+        "trailer": "https://www.youtube.com/watch?v=6iKuInZX_iA",
+        "franchise": "shadwen",
+        "steam": null
+      },{
+        "title": "Wolfenstein: The New Order",
+        "publisher": "Bethesda Softworks",
+        "developer": "MachineGames",
+        "year": 2014,
+        "tags": ["first-person shooter", "singleplayer", "action"],
+        "trailer": "https://www.youtube.com/watch?v=K0u_kAWLJOA",
+        "franchise": "wolfenstein",
+        "steam": null
+      },
+  {
+        "title": "Shadow of the Tomb Raider",
+        "publisher": "Square Enix",
+        "developer": "Eidos Montréal / Crystal Dynamics",
+        "year": 2018,
+        "tags": ["action-adventure", "third-person", "singleplayer"],
+        "trailer": "https://www.youtube.com/watch?v=ciGjk6vx4xw",
+        "franchise": "tomb_raider",
+        "steam": null
+      },    {
+        "title": "The Chronicles of Riddick: Escape from Butcher Bay",
+        "publisher": "Vivendi Universal Games",
+        "developer": "Starbreeze Studios, Tigon Studios",
+        "year": 2004,
+        "tags": ["extinct", "action-adventure", "stealth", "first-person shooter", "singleplayer"],
+        "trailer": "https://www.youtube.com/watch?v=Obzw3tWb_ro",
+        "franchise": "chronicles_of_riddick",
+        "steam": null
+      },
+      {
+        "title": "The Chronicles of Riddick: Assault on Dark Athena",
+        "publisher": "Atari Interactive",
+        "developer": "Starbreeze Studios, Tigon Studios",
+        "year": 2009,
+        "tags": ["extinct", "first-person shooter", "action-adventure", "stealth", "singleplayer", "multiplayer"],
+        "trailer": "https://www.youtube.com/watch?v=EwQBCWw4y-U",
+        "franchise": "chronicles_of_riddick",
+        "steam": null
+      }
+  ]
