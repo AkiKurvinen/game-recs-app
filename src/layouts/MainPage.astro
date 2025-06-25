@@ -5,8 +5,8 @@ import Nav from '../components/Nav/Nav.astro';
 
 const path = Astro.url.pathname;
 let activeTab = 0;
-if (path === '/action') activeTab = 1;
-else if (path === '/horror') activeTab = 2;
+if (path.includes('action')) activeTab = 1;
+else if (path.includes('horror')) activeTab = 2;
 else activeTab = 0; // default to Stealth
 ---
 
