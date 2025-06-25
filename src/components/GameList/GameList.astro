@@ -12,18 +12,24 @@ games.forEach((game: GameMeta, idx: number) => {
 });
 ---
 
-<section class="max-w-[900px] mx-auto w-full p-4 box-border">
+<section class="max-w-[900px] mx-auto w-full py-4 box-border">
   {games.map((game: GameMeta, idx: number) => {
     const expanded = firstOfFranchise[game.franchise ?? ''] === idx;
     return (
       <details open={expanded} class={`mb-2 bg-[#212121] rounded-sm${expanded ? '' : ' ml-8'}`}>
-        <summary class="text-xl cursor-pointer px-4 py-3 text-white relative hover:bg-gray-800 rounded-sm flex items-center">
+        <summary class="text-xl cursor-pointer px-4 py-3 text-white relative hover:bg-gray-800 rounded-sm flex items-center gap-2">
           <span>{game.title}</span>
-          <span class="ml-auto flex items-center">
-            <svg class="w-5 h-5 text-white transition-transform duration-200" 
-            style={expanded ? 'transform: rotate(90deg);' : 'transform: rotate(90deg);'} fill="none" 
-            stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
-              <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" /></svg>
+          <span class="ml-auto flex items-center gap-2 relative">
+            <button type="button" class="p-1 rounded hover:bg-gray-700 focus:outline-none" title="Copy title" aria-label="Copy title" onclick={`navigator.clipboard.writeText('${game.title.replace(/'/g, "\\'")}').then(() => { const msg = document.getElementById('copied-msg-${idx}'); if(msg){ msg.style.opacity = '1'; setTimeout(() => { msg.style.opacity = '0'; }, 1200); } });`}>
+              <svg class="w-5 h-5 text-gray-300" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+                <rect x="9" y="9" width="13" height="13" rx="2" ry="2" stroke="currentColor" stroke-width="2" fill="none"/>
+                <rect x="3" y="3" width="13" height="13" rx="2" ry="2" stroke="currentColor" stroke-width="2" fill="none"/>
+              </svg>
+            </button>
+            <span id={`copied-msg-${idx}`} class="absolute -left-18 top-1/2 -translate-y-1/2 text-green-400 text-xs opacity-0 transition-opacity duration-500 pointer-events-none select-none">Title copied!</span>
+            <svg class="w-5 h-5 text-white transition-transform duration-200 arrow-svg" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" />
+            </svg>
           </span>
         </summary>
         <div class="px-4 pb-4">
@@ -33,19 +39,18 @@ games.forEach((game: GameMeta, idx: number) => {
     );
   })}
 </section>
-
 <script>
   document.addEventListener('DOMContentLoaded', () => {
     document.querySelectorAll('details').forEach(details => {
       const summary = details.querySelector('summary');
-      const svg = summary?.querySelector('svg');
-      if (!svg) return;
+      const arrow = summary?.querySelector('.arrow-svg') as HTMLElement | null;
+      if (!arrow) return;
       function updateArrow() {
-        if (!svg) return;
+        if (!arrow) return;
         if (details.open) {
-          svg.style.transform = 'rotate(-90deg)';
+          arrow.style.transform = 'rotate(-90deg)';
         } else {
-          svg.style.transform = 'rotate(90deg)';
+          arrow.style.transform = 'rotate(90deg)';
         }
       }
       updateArrow();

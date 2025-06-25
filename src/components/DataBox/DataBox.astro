@@ -1,0 +1,38 @@
+---
+const { games, game_data_json } = Astro.props;
+---
+<div class="max-w-[900px] mx-auto my-4" id="game_data_json">
+    <input class="menubtn hidden" type="radio" name="tabs" id="tab1" checked>
+    <label for="tab1" class="tab-label px-4 py-1 rounded-t-md text-sm font-medium cursor-pointer transition-colors duration-150">Only Titles</label>
+    <input class="menubtn hidden" type="radio" name="tabs" id="tab2">
+    <label for="tab2" class="tab-label px-4 py-1 rounded-t-md text-sm font-medium cursor-pointer transition-colors duration-150">Full JSON</label>
+
+  <div class="tab content1">
+    <textarea id="game-titles" class="w-full h-40 p-2 rounded bg-[#181818] text-gray-100 border border-gray-700 resize-y" readonly>{games.map((g: any) => g.title).join('\n')}</textarea>
+  </div>
+  <div class="tab content2">
+    <textarea id="game-json" class="w-full h-40 p-2 rounded bg-[#181818] text-gray-100 border border-gray-700 resize-y" readonly>{JSON.stringify(games, null, 2)}</textarea>
+  </div>
+  <style>
+    .menubtn { display: none; }
+    .tab { display: none; }
+    #tab1:checked ~ .tab-label[for="tab1"],
+    #tab2:checked ~ .tab-label[for="tab2"] {
+      background: #232323;
+      color: #fff;
+      border-bottom: 2px solid #3b82f6;
+    }
+    .tab-label {
+      background: #181818;
+      color: #a3a3a3;
+      border-bottom: 2px solid transparent;
+    }
+    #tab1:checked ~ .content1 { display: block; }
+    #tab2:checked ~ .content2 { display: block; }
+    /* Responsive and focus styles */
+    .tab-label:focus {
+      outline: 2px solid #3b82f6;
+      outline-offset: 2px;
+    }
+  </style>
+</div>

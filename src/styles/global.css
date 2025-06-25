@@ -3,6 +3,7 @@
 html {
     background-color: #111;
     font-family: "Roboto", sans-serif;
+    scroll-behavior: smooth;
 }
 
 body {
@@ -22,4 +23,8 @@ h3 {
 
 h1 {
     font-size: 2em;
+}
+
+button:hover {
+    cursor: pointer;
 }
