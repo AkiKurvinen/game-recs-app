@@ -54,15 +54,6 @@
       "franchise": "alien"
     },
     {
-      "title": "Assassin’s Creed III",
-      "publisher": "Ubisoft",
-      "developer": "Ubisoft Montreal",
-      "year": 2012,
-      "tags": ["action-adventure", "open-world", "singleplayer"],
-      "trailer": "https://www.youtube.com/watch?v=-pUhraVG7Ow",
-      "franchise": "assassins_creed"
-    },
-    {
       "title": "Unknown 9: Awakening",
       "publisher": "Bandai Namco Entertainment",
       "developer": "Reflector Entertainment",
@@ -90,6 +81,15 @@
       "franchise": "batman_arkham"
     },
     {
+        "title": "Batman: Arkham City",
+        "publisher": "Warner Bros. Interactive Entertainment",
+        "developer": "Rocksteady Studios",
+        "year": 2011,
+        "tags": ["action-adventure", "singleplayer"],
+        "trailer": "https://www.youtube.com/watch?v=MlX--IPxTRU",
+        "franchise": "batman_arkham"
+    },
+    {
       "title": "Batman: Arkham Asylum",
       "publisher": "Eidos Interactive",
       "developer": "Rocksteady Studios",
@@ -97,5 +97,67 @@
       "tags": ["action-adventure", "singleplayer"],
       "trailer": "https://www.youtube.com/watch?v=T8bu2Y_cZb8",
       "franchise": "batman_arkham"
-    }
+    },
+    {
+        "title": "Hitman: Absolution",
+        "publisher": "Square Enix",
+        "developer": "IO Interactive",
+        "year": 2012,
+        "tags": ["stealth", "action", "singleplayer"],
+        "trailer": "https://www.youtube.com/watch?v=Wu1Aii7scBo",
+        "franchise": "hitman"
+    },
+    {
+        "title": "Styx: Master of Shadows",
+        "publisher": "Focus Home Interactive",
+        "developer": "Cyanide Studio",
+        "year": 2014,
+        "tags": ["stealth", "action", "singleplayer", "RPG"],
+        "trailer": "https://www.youtube.com/watch?v=HpVuf0VZ-fs", 
+        "franchise": "styx"
+      },
+      {
+        "title": "Styx: Shards of Darkness",
+        "publisher": "Focus Home Interactive",
+        "developer": "Cyanide Studio",
+        "year": 2017,
+        "tags": ["stealth", "action", "singleplayer", "multiplayer", "RPG"],
+        "trailer": "https://www.youtube.com/watch?v=7J0MWEECYOY",
+        "franchise": "styx"
+      },
+      {
+        "title": "Thief",
+        "publisher": "Square Enix",
+        "developer": "Eidos-Montréal",
+        "year": 2014,
+        "tags": ["stealth", "action-adventure", "singleplayer"],
+        "trailer": "https://www.youtube.com/watch?v=6FtOFv5oGEI",
+        "franchise": "thief"
+      },
+    {
+        "title": "Assassin’s Creed III",
+        "publisher": "Ubisoft",
+        "developer": "Ubisoft Montreal",
+        "year": 2012,
+        "tags": ["action-adventure", "open-world", "singleplayer"],
+        "trailer": "https://www.youtube.com/watch?v=-pUhraVG7Ow",
+        "franchise": "assassins_creed"
+    },{
+        "title": "Assassin's Creed Syndicate",
+        "publisher": "Ubisoft",
+        "developer": "Ubisoft Quebec",
+        "year": 2015,
+        "tags": ["action-adventure", "singleplayer", "stealth"],
+        "trailer": "https://www.youtube.com/watch?v=WTBbwgsyxvg",
+        "franchise": "assassins_creed"
+      },
+    {
+        "title": "Assassin's Creed Unity",
+        "publisher": "Ubisoft",
+        "developer": "Ubisoft Montreal",
+        "year": 2014,
+        "tags": ["action-adventure", "singleplayer", "multiplayer", "stealth"],
+        "trailer": "https://www.youtube.com/watch?v=xzCEdSKMkdU",
+        "franchise": "assassins_creed"
+      }
 ]

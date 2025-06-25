@@ -16,16 +16,41 @@ games.forEach((game: GameMeta, idx: number) => {
   {games.map((game: GameMeta, idx: number) => {
     const expanded = firstOfFranchise[game.franchise ?? ''] === idx;
     return (
-      <details open={expanded} class="mb-4 bg-[#212121] rounded-lg">
-        <summary class="text-xl cursor-pointer px-4 py-3 text-white relative hover:bg-gray-800 rounded-lg">
+      <details open={expanded} class={`mb-2 bg-[#212121] rounded-sm${expanded ? '' : ' ml-8'}`}>
+        <summary class="text-xl cursor-pointer px-4 py-3 text-white relative hover:bg-gray-800 rounded-sm flex items-center">
           <span>{game.title}</span>
-          <span class="text-sm font-normal text-gray-300 ml-2 text-right absolute right-4 top-1/2 -translate-y-1/2">{game.year}</span>
+          <span class="ml-auto flex items-center">
+            <svg class="w-5 h-5 text-white transition-transform duration-200" 
+            style={expanded ? 'transform: rotate(90deg);' : 'transform: rotate(90deg);'} fill="none" 
+            stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" /></svg>
+          </span>
         </summary>
-        <div class="p-4">
+        <div class="px-4 pb-4">
           <GameCard game={game} />
         </div>
       </details>
     );
   })}
 </section>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('details').forEach(details => {
+      const summary = details.querySelector('summary');
+      const svg = summary?.querySelector('svg');
+      if (!svg) return;
+      function updateArrow() {
+        if (!svg) return;
+        if (details.open) {
+          svg.style.transform = 'rotate(-90deg)';
+        } else {
+          svg.style.transform = 'rotate(90deg)';
+        }
+      }
+      updateArrow();
+      details.addEventListener('toggle', updateArrow);
+    });
+  });
+</script>
 
