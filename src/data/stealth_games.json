@@ -1,163 +1,222 @@
 [
+
     {
       "title": "Dishonored",
       "publisher": "Bethesda Softworks",
       "developer": "Arkane Studios",
       "year": 2012,
-      "tags": ["action-adventure", "stealth", "singleplayer"],
+      "tags": ["stealth", "linear", "supernatural", "singleplayer"],
       "trailer": "https://www.youtube.com/watch?v=IyDvT7XpaBc",
-      "franchise": "dishonored"
+      "franchise": "dishonored",
+      "steam": "https://store.steampowered.com/app/205100/Dishonored/"
     },
     {
       "title": "Dishonored 2",
       "publisher": "Bethesda Softworks",
       "developer": "Arkane Studios",
       "year": 2016,
-      "tags": ["action-adventure", "stealth", "singleplayer"],
+      "tags": ["stealth", "linear", "singleplayer"],
       "trailer": "https://www.youtube.com/watch?v=7bLNC8VDTlQ",
-      "franchise": "dishonored"
+      "franchise": "dishonored",
+      "steam": "https://store.steampowered.com/app/403640/Dishonored_2/"
     },
     {
       "title": "Dishonored: The Knife of Dunwall",
       "publisher": "Bethesda Softworks",
       "developer": "Arkane Studios",
       "year": 2013,
-      "tags": ["action-adventure", "stealth", "dlc", "singleplayer"],
+      "tags": ["stealth", "linear", "dlc", "singleplayer"],
       "trailer": "https://www.youtube.com/watch?v=yuXD-Yt4flc",
-      "franchise": "dishonored"
+      "franchise": "dishonored",
+      "steam": "https://store.steampowered.com/app/208575/Dishonored__The_Knife_of_Dunwall/"
     },
     {
       "title": "Dishonored: The Brigmore Witches",
       "publisher": "Bethesda Softworks",
       "developer": "Arkane Studios",
       "year": 2013,
-      "tags": ["action-adventure", "stealth", "dlc", "singleplayer"],
+      "tags": ["stealth", "linear", "dlc", "singleplayer"],
       "trailer": "https://www.youtube.com/watch?v=Rp6hY003tKs",
-      "franchise": "dishonored"
+      "franchise": "dishonored",
+      "steam": "https://store.steampowered.com/agecheck/app/212894/"
     },
     {
-      "title": "Dishonored: Mark of the Outsider",
+      "title": "Dishonored: Death of the Outsider",
       "publisher": "Bethesda Softworks",
       "developer": "Arkane Studios",
       "year": 2017,
-      "tags": ["action-adventure", "stealth", "dlc", "singleplayer"],
+      "tags": ["stealth", "linear", "dlc", "singleplayer"],
       "trailer": "https://www.youtube.com/watch?v=Nea82Rt5vRI",
-      "franchise": "dishonored"
+      "franchise": "dishonored",
+      "steam": "https://store.steampowered.com/agecheck/app/614570/"
+    },
+    {
+      "title": "Tom Clancy's Splinter Cell: Blacklist",
+      "publisher": "Ubisoft",
+      "developer": "Ubisoft Toronto",
+      "year": 2013,
+      "tags": ["stealth", "linear",  "singleplayer"],
+      "trailer": "https://www.youtube.com/watch?v=6H5vZ5QIYSI",
+      "franchise": "splinter_cell"
+    },
+    {
+      "title": "Tom Clancy's Splinter Cell: Conviction",
+      "publisher": "Ubisoft",
+      "developer": "Ubisoft Montreal",
+      "year": 2010,
+      "tags": ["stealth", "linear", "singleplayer"],
+      "trailer": "https://www.youtube.com/watch?v=6Ww_IFU6kg4",
+      "franchise": "splinter_cell"
+    }, 
+   
+    {
+      "title": "Velvet Assassin",
+      "publisher": "Missing Link Games",
+      "developer": "Replay Studios",
+      "year": 2009,
+      "tags": ["stealth", "linear", "singleplayer"],
+      "trailer": "https://www.youtube.com/watch?v=vDsRqBQYMGM",
+      "franchise": "velvet_assassin",
+      "steam": "https://store.steampowered.com/app/16720/Velvet_Assassin/"
+    },
+    {
+      "title": "Clandestine",
+      "publisher": "Logic Artists",
+      "developer": "Logic Artists",
+      "year": 2015,
+      "tags": ["stealth", "linear", "singleplayer"],
+      "trailer": "https://www.youtube.com/watch?v=l5BF0fEFE58",
+      "franchise": "clandestine",
+      "steam": "https://store.steampowered.com/app/290530/Clandestine/"
     },
     {
       "title": "Alien: Isolation",
       "publisher": "Sega",
       "developer": "Creative Assembly",
       "year": 2014,
-      "tags": ["survival-horror", "stealth", "singleplayer"],
+      "tags": [ "stealth", "liner", "survival-horror","singleplayer"],
       "trailer": "https://www.youtube.com/watch?v=7h0cgmvIrZw",
-      "franchise": "alien"
+      "franchise": "alien",
+      "steam": "https://store.steampowered.com/app/214490/Alien_Isolation/"
     },
     {
       "title": "Unknown 9: Awakening",
       "publisher": "Bandai Namco Entertainment",
       "developer": "Reflector Entertainment",
       "year": 2024,
-      "tags": ["action-adventure", "narrative", "singleplayer"],
+      "tags": ["stealth", "linear", "action-adventure", "singleplayer"],
       "trailer": "https://www.youtube.com/watch?v=jpO-jUWtm6E",
-      "franchise": "unknown_9"
+      "franchise": "unknown_9",
+      "steam": "https://store.steampowered.com/app/1477940/Unknown_9_Awakening/"
     },
     {
-      "title": "Werewolf: The Apocalypse – Earthblood",
+      "title": "Werewolf: The Apocalypse - Earthblood",
       "publisher": "Bigben Interactive",
       "developer": "Cyanide SA",
       "year": 2021,
-      "tags": ["action-RPG", "singleplayer", "supernatural"],
+      "tags": ["stealth", "linear", "supernatural", "singleplayer" ],
       "trailer": "https://www.youtube.com/watch?v=DKrnB9gJxjQ",
-      "franchise": "werewolf_the_apocalypse"
+      "franchise": "werewolf_the_apocalypse",
+      "steam": "https://store.steampowered.com/agecheck/app/679110/"
     },
     {
       "title": "Batman: Arkham Knight",
       "publisher": "Warner Bros. Interactive Entertainment",
       "developer": "Rocksteady Studios",
       "year": 2015,
-      "tags": ["action-adventure", "open-world", "singleplayer"],
+      "tags": [ "stealth","open-world","fighting",  "singleplayer"],
       "trailer": "https://www.youtube.com/watch?v=wsf78BS9VE0",
-      "franchise": "batman_arkham"
+      "franchise": "batman_arkham",
+      "steam": "https://store.steampowered.com/app/208650/Batman_Arkham_Knight/"
     },
     {
         "title": "Batman: Arkham City",
         "publisher": "Warner Bros. Interactive Entertainment",
         "developer": "Rocksteady Studios",
         "year": 2011,
-        "tags": ["action-adventure", "singleplayer"],
+        "tags": [ "stealth","open-world", "fighting", "singleplayer"],
         "trailer": "https://www.youtube.com/watch?v=MlX--IPxTRU",
-        "franchise": "batman_arkham"
+        "franchise": "batman_arkham",
+        "steam": "https://store.steampowered.com/app/200260/Batman_Arkham_City/"
     },
     {
       "title": "Batman: Arkham Asylum",
       "publisher": "Eidos Interactive",
       "developer": "Rocksteady Studios",
       "year": 2009,
-      "tags": ["action-adventure", "singleplayer"],
+      "tags": [ "stealth","open-world", "fighting", "singleplayer"],
       "trailer": "https://www.youtube.com/watch?v=T8bu2Y_cZb8",
-      "franchise": "batman_arkham"
+      "franchise": "batman_arkham",
+      "steam": "https://store.steampowered.com/app/35140/Batman_Arkham_Asylum/"
     },
     {
         "title": "Hitman: Absolution",
         "publisher": "Square Enix",
         "developer": "IO Interactive",
         "year": 2012,
-        "tags": ["stealth", "action", "singleplayer"],
+        "tags": ["stealth", "linear", "action", "singleplayer"],
         "trailer": "https://www.youtube.com/watch?v=Wu1Aii7scBo",
-        "franchise": "hitman"
+        "franchise": "hitman",
+        "steam": "https://store.steampowered.com/agecheck/app/203140/"
     },
     {
         "title": "Styx: Master of Shadows",
         "publisher": "Focus Home Interactive",
         "developer": "Cyanide Studio",
         "year": 2014,
-        "tags": ["stealth", "action", "singleplayer", "RPG"],
+        "tags": ["stealth", "linear", "singleplayer"],
         "trailer": "https://www.youtube.com/watch?v=HpVuf0VZ-fs", 
-        "franchise": "styx"
+        "franchise": "styx",
+        "steam": "https://store.steampowered.com/app/242640/Styx_Master_of_Shadows/"
       },
       {
         "title": "Styx: Shards of Darkness",
         "publisher": "Focus Home Interactive",
         "developer": "Cyanide Studio",
         "year": 2017,
-        "tags": ["stealth", "action", "singleplayer", "multiplayer", "RPG"],
+        "tags": ["stealth", "linear", "singleplayer"],
         "trailer": "https://www.youtube.com/watch?v=7J0MWEECYOY",
-        "franchise": "styx"
+        "franchise": "styx",
+        "steam": "https://store.steampowered.com/app/355790/Styx_Shards_of_Darkness/"
       },
       {
         "title": "Thief",
         "publisher": "Square Enix",
         "developer": "Eidos-Montréal",
         "year": 2014,
-        "tags": ["stealth", "action-adventure", "singleplayer"],
+        "tags": ["stealth", "linear", "singleplayer"],
         "trailer": "https://www.youtube.com/watch?v=6FtOFv5oGEI",
-        "franchise": "thief"
+        "franchise": "thief",
+        "steam": "https://store.steampowered.com/app/239160/Thief/"
       },
     {
         "title": "Assassin's Creed III",
         "publisher": "Ubisoft",
         "developer": "Ubisoft Montreal",
         "year": 2012,
-        "tags": ["action-adventure", "open-world", "singleplayer"],
+        "tags": [ "stealth", "open-world", "action-adventure","singleplayer"],
         "trailer": "https://www.youtube.com/watch?v=-pUhraVG7Ow",
-        "franchise": "assassins_creed"
-    },{
+        "franchise": "assassins_creed",
+        "steam": "https://store.steampowered.com/app/911400/Assassins_Creed_III_Remastered/"
+    },
+    {
         "title": "Assassin's Creed Syndicate",
         "publisher": "Ubisoft",
         "developer": "Ubisoft Quebec",
         "year": 2015,
-        "tags": ["action-adventure", "singleplayer", "stealth"],
+        "tags": [ "stealth", "open-world", "action-adventure","singleplayer"],
         "trailer": "https://www.youtube.com/watch?v=WTBbwgsyxvg",
-        "franchise": "assassins_creed"
-      },
+        "franchise": "assassins_creed",
+        "steam": "https://store.steampowered.com/app/368500/Assassins_Creed_Syndicate/"
+    },
     {
         "title": "Assassin's Creed Unity",
         "publisher": "Ubisoft",
         "developer": "Ubisoft Montreal",
         "year": 2014,
-        "tags": ["action-adventure", "singleplayer", "multiplayer", "stealth"],
+        "tags": [ "stealth", "open-world", "action-adventure", "singleplayer", "singleplayer"],
         "trailer": "https://www.youtube.com/watch?v=xzCEdSKMkdU",
-        "franchise": "assassins_creed"
+        "franchise": "assassins_creed",
+        "steam": "https://store.steampowered.com/app/289650/Assassins_Creed_Unity/"
       }
-]
+  ]

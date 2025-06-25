@@ -9,6 +9,7 @@ export type GameMeta = {
   tags?: string[];
   trailer?: string;
   franchise?: string;
+  steam?: string;
 };
 const { game } = Astro.props;
 function getYouTubeVideoId(url?: string) {
@@ -25,9 +26,17 @@ const video_id = getYouTubeVideoId(game.trailer);
         <div class="text-gray-100 text-xs mt-2">{game.publisher}</div>
         <div class="text-gray-100 text-base font-bold my-2">{game.developer}</div>
         <div class="text-gray-100 text-sm">{game.year}</div>
+        {game.steam && (
+          <div class="mt-2">
+            <a href={game.steam} target="_blank" rel="noopener" class="inline-flex items-center gap-1 text-blue-300 hover:text-blue-400 underline text-xs">
+              Steam
+              <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 ml-1" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M13.5 6H19.5V12M19.5 6L10.5 15M19 19H5V5H12"/></svg>
+            </a>
+          </div>
+        )}
       </div>
       <div class="flex flex-wrap gap-2 mt-2">
-        {game.tags && game.tags.map((tag: string) => (
+        {game.tags && (Array.isArray(game.tags) ? game.tags : []).map((tag: string) => (
           <span class="border border-blue-300 text-blue-300 rounded-full px-3 py-0.5 text-sm">{tag}</span>
         ))}
       </div>
