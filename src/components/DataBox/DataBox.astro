@@ -1,7 +1,8 @@
 ---
-const { games, game_data_json } = Astro.props;
+const { games } = Astro.props;
 ---
 <div class="max-w-[900px] mx-auto my-4" id="game_data_json">
+    <h2>Data</h2>
     <input class="menubtn hidden" type="radio" name="tabs" id="tab1" checked>
     <label for="tab1" class="tab-label px-4 py-1 rounded-t-md text-sm font-medium cursor-pointer transition-colors duration-150">Only Titles</label>
     <input class="menubtn hidden" type="radio" name="tabs" id="tab2">
