@@ -4,6 +4,7 @@ import games from '../data/games.json';
 import GameList from '../components/GameList/GameList.astro';
 import Nav from '../components/Nav/Nav.astro';
 import DataBox from '../components/DataBox/DataBox.astro';
+import Footer from '../components/Footer/Footer.astro';
 ---
 
 <html lang="en">
@@ -37,7 +38,11 @@ import DataBox from '../components/DataBox/DataBox.astro';
 			</div>
 			<GameList games={games} />
 			<DataBox games={games} id="game_data_json"/>
+		
+
+
 		</main>
+		<Footer/>
 	</body>
 	<script>
   document.addEventListener('DOMContentLoaded', () => {
