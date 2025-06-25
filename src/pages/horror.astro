@@ -4,11 +4,10 @@ import GameList from '../components/GameList/GameList.astro';
 import DataBox from '../components/DataBox/DataBox.astro';
 import Toolbar from '../components/Toolbar/Toolbar.astro';
 
-import games from '../data/stealth_games.json';
+import games from '../data/horror_games.json';
 ---
 <MainPage title="Home Page">
   <Toolbar heading="Stealth Games"/>
   <GameList games={games} />
   <DataBox games={games} id="game_data_json"/>
 </MainPage>
-

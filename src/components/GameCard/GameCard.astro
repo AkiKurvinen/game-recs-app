@@ -18,12 +18,12 @@ function getYouTubeVideoId(url?: string) {
 }
 const video_id = getYouTubeVideoId(game.trailer);
 ---
-<div class="flex items-stretch mb-0 shadow-none m-0 p-0 bg-inherit">
-  <div class="flex flex-row w-full m-0 p-0">
+<div class="flex flex-col md:flex-row items-stretch mb-0 shadow-none m-0 p-0 bg-inherit">
+  <div class="flex flex-col md:flex-row w-full m-0 p-0">
     <div class="flex-1 m-0 p-0 flex flex-col justify-between">
       <div>
-        <div class="text-gray-100 text-xs">{game.publisher}</div>
-        <div class="text-gray-100 text-base font-bold">{game.developer}</div>
+        <div class="text-gray-100 text-xs mt-2">{game.publisher}</div>
+        <div class="text-gray-100 text-base font-bold my-2">{game.developer}</div>
         <div class="text-gray-100 text-sm">{game.year}</div>
       </div>
       <div class="flex flex-wrap gap-2 mt-2">
@@ -32,11 +32,11 @@ const video_id = getYouTubeVideoId(game.trailer);
         ))}
       </div>
     </div>
-    <div class="flex items-center m-0 p-0">
+    <div class="flex items-center m-0 p-0 mt-4 md:mt-0 md:ml-4">
       {video_id ? (
-       <YouTube client:visible videoId={video_id} width="320" height="180" imgSize="mqdefault" class="w-[320px] h-[180px] rounded-lg" />
+       <YouTube client:visible videoId={video_id} width="320" height="180" imgSize="mqdefault" class="w-full md:w-[320px] h-[180px] rounded-lg" />
       ) : (
-        <div class="w-[320px] h-[180px] bg-gray-700 flex items-center justify-center p-0 rounded-lg">
+        <div class="w-full md:w-[320px] h-[180px] bg-gray-700 flex items-center justify-center p-0 rounded-lg">
           <span class="text-gray-400 text-base">Missing trailer</span>
         </div>
       )}

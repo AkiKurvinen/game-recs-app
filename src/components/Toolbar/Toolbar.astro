@@ -1,0 +1,19 @@
+---
+const { heading } = Astro.props;
+---
+<div class="max-w-[900px] mx-auto w-full flex items-center justify-between">
+    <h1>{heading}</h1>
+    <div class="flex gap-2">
+        <button id="expand-collapse-all" class="p-2 rounded hover:bg-gray-800" title="Expand/Collapse all">
+            <svg id="expand-collapse-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6 text-white">
+                <path id="expand-path" stroke-linecap="round" stroke-linejoin="round" d="m4.5 5.25 7.5 7.5 7.5-7.5m-15 6 7.5 7.5 7.5-7.5" />
+            </svg>
+        </button>
+        <a href="#game_data_json" title="Jump to Game Data" class="p-2 rounded hover:bg-gray-800">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6 text-white">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M3 4.5h14.25M3 9h9.75M3 13.5h9.75m4.5-4.5v12m0 0-3.75-3.75M17.25 21 21 17.25" />
+              </svg>
+              
+        </a>
+    </div>
+</div>
