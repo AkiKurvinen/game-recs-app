@@ -1,4 +1,7 @@
 ---
+import '../styles/global.css';
+import games from '../data/games.json';
+import GameList from '../components/GameList/GameList.astro';
 
 ---
 
@@ -12,5 +15,6 @@
 	</head>
 	<body>
 		<h1>Astro</h1>
+		<GameList games={games} />
 	</body>
 </html>

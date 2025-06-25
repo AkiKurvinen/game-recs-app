@@ -1,0 +1,30 @@
+---
+import type { GameMeta } from '../GameCard/GameCard.astro';
+import GameCard from '../GameCard/GameCard.astro';
+const { games } = Astro.props;
+
+// Find the first index for each franchise
+const firstOfFranchise: Record<string, number> = {};
+games.forEach((game: GameMeta, idx: number) => {
+  if (game.franchise && !(game.franchise in firstOfFranchise)) {
+    firstOfFranchise[game.franchise] = idx;
+  }
+});
+---
+
+<section class="max-w-[900px] mx-auto w-full p-4 box-border">
+  {games.map((game: GameMeta, idx: number) => {
+    const expanded = firstOfFranchise[game.franchise ?? ''] === idx;
+    return (
+      <details open={expanded} class="mb-4 bg-[#212121] rounded-lg">
+        <summary class="text-xl font-semibold cursor-pointer px-4 py-3">
+          {game.title}
+        </summary>
+        <div class="p-4">
+          <GameCard game={game} />
+        </div>
+      </details>
+    );
+  })}
+</section>
+

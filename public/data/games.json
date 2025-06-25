@@ -1,0 +1,155 @@
+[
+    {
+      "title": "Dishonored",
+      "publisher": "Bethesda Softworks",
+      "developer": "Arkane Studios",
+      "year": 2012,
+      "tags": ["action-adventure", "stealth", "singleplayer"],
+      "trailer": "https://www.youtube.com/watch?v=IyDvT7XpaBc",
+      "franchise": "dishonored"
+    },
+    {
+      "title": "Dishonored 2",
+      "publisher": "Bethesda Softworks",
+      "developer": "Arkane Studios",
+      "year": 2016,
+      "tags": ["action-adventure", "stealth", "singleplayer"],
+      "trailer": "https://www.youtube.com/watch?v=7bLNC8VDTlQ",
+      "franchise": "dishonored"
+    },
+    {
+      "title": "Dishonored: The Knife of Dunwall",
+      "publisher": "Bethesda Softworks",
+      "developer": "Arkane Studios",
+      "year": 2013,
+      "tags": ["action-adventure", "stealth", "dlc", "singleplayer"],
+      "trailer": "https://www.youtube.com/watch?v=yuXD-Yt4flc",
+      "franchise": "dishonored"
+    },
+    {
+      "title": "Dishonored: The Brigmore Witches",
+      "publisher": "Bethesda Softworks",
+      "developer": "Arkane Studios",
+      "year": 2013,
+      "tags": ["action-adventure", "stealth", "dlc", "singleplayer"],
+      "trailer": "https://www.youtube.com/watch?v=Rp6hY003tKs",
+      "franchise": "dishonored"
+    },
+    {
+      "title": "Dishonored: Mark of the Outsider",
+      "publisher": "Bethesda Softworks",
+      "developer": "Arkane Studios",
+      "year": 2017,
+      "tags": ["action-adventure", "stealth", "dlc", "singleplayer"],
+      "trailer": "https://www.youtube.com/watch?v=Nea82Rt5vRI",
+      "franchise": "dishonored"
+    },
+    {
+      "title": "Alien: Isolation",
+      "publisher": "Sega",
+      "developer": "Creative Assembly",
+      "year": 2014,
+      "tags": ["survival-horror", "stealth", "singleplayer"],
+      "trailer": "https://www.youtube.com/watch?v=7h0cgmvIrZw",
+      "franchise": "alien"
+    },
+    {
+      "title": "Assassin’s Creed III",
+      "publisher": "Ubisoft",
+      "developer": "Ubisoft Montreal",
+      "year": 2012,
+      "tags": ["action-adventure", "open-world", "singleplayer"],
+      "trailer": "https://www.youtube.com/watch?v=-pUhraVG7Ow",
+      "franchise": "assassins_creed"
+    },
+    {
+      "title": "Unknown 9: Awakening",
+      "publisher": "Bandai Namco Entertainment",
+      "developer": "Reflector Entertainment",
+      "year": 2024,
+      "tags": ["action-adventure", "narrative", "singleplayer"],
+      "trailer": "https://www.youtube.com/watch?v=jpO-jUWtm6E",
+      "franchise": "unknown_9"
+    },
+    {
+      "title": "Werewolf: The Apocalypse – Earthblood",
+      "publisher": "Bigben Interactive",
+      "developer": "Cyanide SA",
+      "year": 2021,
+      "tags": ["action-RPG", "singleplayer", "supernatural"],
+      "trailer": "https://www.youtube.com/watch?v=DKrnB9gJxjQ",
+      "franchise": "werewolf_the_apocalypse"
+    },
+    {
+      "title": "Batman: Arkham Knight",
+      "publisher": "Warner Bros. Interactive Entertainment",
+      "developer": "Rocksteady Studios",
+      "year": 2015,
+      "tags": ["action-adventure", "open-world", "singleplayer"],
+      "trailer": "https://www.youtube.com/watch?v=wsf78BS9VE0",
+      "franchise": "batman_arkham"
+    },
+    {
+      "title": "Batman: Arkham Asylum",
+      "publisher": "Eidos Interactive",
+      "developer": "Rocksteady Studios",
+      "year": 2009,
+      "tags": ["action-adventure", "singleplayer"],
+      "trailer": "https://www.youtube.com/watch?v=T8bu2Y_cZb8",
+      "franchise": "batman_arkham"
+    },
+    {
+      "title": "Batman: Arkham City",
+      "publisher": "Warner Bros. Interactive Entertainment",
+      "developer": "Rocksteady Studios",
+      "year": 2011,
+      "tags": ["action-adventure", "open-world", "singleplayer"],
+      "trailer": "https://www.youtube.com/watch?v=muCtJsy-d9w",
+      "franchise": "batman_arkham"
+    },
+    {
+      "title": "Tom Clancy’s Splinter Cell: Blacklist",
+      "publisher": "Ubisoft",
+      "developer": "Ubisoft Toronto",
+      "year": 2013,
+      "tags": ["stealth", "action-adventure", "singleplayer", "multiplayer"],
+      "trailer": "https://www.youtube.com/watch?v=wYGoFH6bWXg",
+      "franchise": "tom_clancys_splinter_cell"
+    },
+    {
+      "title": "Tom Clancy’s Splinter Cell: Conviction",
+      "publisher": "Ubisoft",
+      "developer": "Ubisoft Montreal",
+      "year": 2010,
+      "tags": ["stealth", "action-adventure", "singleplayer", "multiplayer"],
+      "trailer": "https://www.youtube.com/watch?v=6Ww_IFU6kg4",
+      "franchise": "tom_clancys_splinter_cell"
+    },
+    {
+      "title": "Clandestine",
+      "publisher": "Mouldy Toof Studios",
+      "developer": "Mouldy Toof Studios",
+      "year": 2016,
+      "tags": ["stealth", "multiplayer", "co-op"],
+      "trailer": "https://www.youtube.com/watch?v=l5BF0fEFE58",
+      "franchise": "clandestine"
+    },
+    {
+      "title": "Deus Ex: Human Revolution",
+      "publisher": "Square Enix",
+      "developer": "Eidos Montréal",
+      "year": 2011,
+      "tags": ["action-RPG", "stealth", "singleplayer"],
+      "trailer": "https://www.youtube.com/watch?v=Kq5KWLqUewc",
+      "franchise": "deus_ex"
+    },
+    {
+      "title": "Deus Ex: Mankind Divided",
+      "publisher": "Square Enix",
+      "developer": "Eidos Montréal",
+      "year": 2016,
+      "tags": ["action-RPG", "stealth", "singleplayer"],
+      "trailer": "https://www.youtube.com/watch?v=uvSs5b6y-YM",
+      "franchise": "deus_ex"
+    }
+  ]
