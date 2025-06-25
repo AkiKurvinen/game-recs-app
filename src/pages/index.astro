@@ -2,6 +2,7 @@
 import '../styles/global.css';
 import games from '../data/games.json';
 import GameList from '../components/GameList/GameList.astro';
+import Nav from '../components/Nav/Nav.astro';
 
 ---
 
@@ -14,6 +15,8 @@ import GameList from '../components/GameList/GameList.astro';
 		<title>Stealth Games</title>
 	</head>
 	<body>
+	
+		<Nav logo=""/>
 		<h1>Stealth Games</h1>
 		<GameList games={games} />
 	</body>

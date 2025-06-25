@@ -58,7 +58,7 @@
       "publisher": "Ubisoft",
       "developer": "Ubisoft Montreal",
       "year": 2012,
-      "tags": ["action-adventure", "open-world", "singleplayer"],
+      "tags": ["action-adventure", "open-world", "singleplayer", "stealth"],
       "trailer": "https://www.youtube.com/watch?v=-pUhraVG7Ow",
       "franchise": "assassins_creed"
     },
@@ -67,7 +67,7 @@
       "publisher": "Bandai Namco Entertainment",
       "developer": "Reflector Entertainment",
       "year": 2024,
-      "tags": ["action-adventure", "narrative", "singleplayer"],
+      "tags": ["action-adventure", "narrative", "singleplayer", "stealth"],
       "trailer": "https://www.youtube.com/watch?v=jpO-jUWtm6E",
       "franchise": "unknown_9"
     },
@@ -76,7 +76,7 @@
       "publisher": "Bigben Interactive",
       "developer": "Cyanide SA",
       "year": 2021,
-      "tags": ["action-RPG", "singleplayer", "supernatural"],
+      "tags": ["action-RPG", "singleplayer", "supernatural", "stealth"],
       "trailer": "https://www.youtube.com/watch?v=DKrnB9gJxjQ",
       "franchise": "werewolf_the_apocalypse"
     },
@@ -85,7 +85,7 @@
       "publisher": "Warner Bros. Interactive Entertainment",
       "developer": "Rocksteady Studios",
       "year": 2015,
-      "tags": ["action-adventure", "open-world", "singleplayer"],
+      "tags": ["action-adventure", "open-world", "singleplayer", "stealth"],
       "trailer": "https://www.youtube.com/watch?v=wsf78BS9VE0",
       "franchise": "batman_arkham"
     },
@@ -94,7 +94,7 @@
       "publisher": "Eidos Interactive",
       "developer": "Rocksteady Studios",
       "year": 2009,
-      "tags": ["action-adventure", "singleplayer"],
+      "tags": ["action-adventure", "singleplayer", "stealth"],
       "trailer": "https://www.youtube.com/watch?v=T8bu2Y_cZb8",
       "franchise": "batman_arkham"
     },
@@ -103,7 +103,7 @@
       "publisher": "Warner Bros. Interactive Entertainment",
       "developer": "Rocksteady Studios",
       "year": 2011,
-      "tags": ["action-adventure", "open-world", "singleplayer"],
+      "tags": ["action-adventure", "open-world", "singleplayer", "stealth"],
       "trailer": "https://www.youtube.com/watch?v=muCtJsy-d9w",
       "franchise": "batman_arkham"
     },
