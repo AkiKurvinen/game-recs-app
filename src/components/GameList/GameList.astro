@@ -17,8 +17,9 @@ games.forEach((game: GameMeta, idx: number) => {
     const expanded = firstOfFranchise[game.franchise ?? ''] === idx;
     return (
       <details open={expanded} class="mb-4 bg-[#212121] rounded-lg">
-        <summary class="text-xl font-semibold cursor-pointer px-4 py-3">
-          {game.title}
+        <summary class="text-xl cursor-pointer px-4 py-3 text-white relative hover:bg-gray-800 rounded-lg">
+          <span>{game.title}</span>
+          <span class="text-sm font-normal text-gray-300 ml-2 text-right absolute right-4 top-1/2 -translate-y-1/2">{game.year}</span>
         </summary>
         <div class="p-4">
           <GameCard game={game} />

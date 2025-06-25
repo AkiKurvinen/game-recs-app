@@ -1,5 +1,6 @@
 ---
-const { game } = Astro.props;
+import YouTube from "../YouTube/YouTube.tsx";
+
 export type GameMeta = {
   title: string;
   publisher?: string;
@@ -9,15 +10,14 @@ export type GameMeta = {
   trailer?: string;
   franchise?: string;
 };
-
-function getYouTubeVideoId(url:string) {
+const { game } = Astro.props;
+function getYouTubeVideoId(url?: string) {
   if (!url) return undefined;
   const match = url.split('v=')[1]?.match(/([a-zA-Z0-9_-]{11})/);
   return match ? match[1] : undefined;
 }
 const video_id = getYouTubeVideoId(game.trailer);
 ---
-
 <div class="flex items-stretch mb-0 shadow-none m-0 p-0 bg-inherit">
   <div class="flex flex-row w-full m-0 p-0">
     <div class="flex-1 m-0 p-0">
@@ -25,14 +25,14 @@ const video_id = getYouTubeVideoId(game.trailer);
       <div class="text-gray-100 text-base font-bold">{game.developer}</div>
       <div class="text-gray-100 text-sm">{game.year}</div>
       <div class="flex flex-wrap gap-2 mt-2">
-        {game.tags && game.tags.map((tag:string) => (
+        {game.tags && game.tags.map((tag: string) => (
           <span class="border border-blue-300 text-blue-300 rounded-full px-3 py-0.5 text-sm">{tag}</span>
         ))}
       </div>
     </div>
     <div class="flex items-center m-0 p-0">
       {video_id ? (
-        <iframe width="320" height="180" src={`https://www.youtube.com/embed/${video_id}`} frameborder="0" allowfullscreen class="rounded-lg"></iframe>
+       <YouTube client:visible videoId={video_id} width="320" height="180" imgSize="mqdefault" class="w-[320px] h-[180px] rounded-lg" />
       ) : (
         <div class="w-[320px] h-[180px] bg-gray-700 flex items-center justify-center p-4 rounded-lg">
           <span class="text-gray-400 text-base">Missing trailer</span>

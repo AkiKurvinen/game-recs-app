@@ -18,7 +18,6 @@ const Youtube: React.FC<YoutubeProps> = (props) => {
           width={width || '100%'}
           height={height || '400px'}
           src={`https://www.youtube.com/embed/${videoId}?autoplay=1&showinfo=0`}
-          frameBorder='0'
           allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share'
           allowFullScreen
         />
@@ -26,13 +25,11 @@ const Youtube: React.FC<YoutubeProps> = (props) => {
         <div
           className={styles.image}
           style={{
-            backgroundImage: `url(${`https://img.youtube.com/vi/${videoId}/${
-              imgSize || 'mqdefault'
-            }.jpg`})`,
-            width,
-            height
+            backgroundImage: `url(${`https://img.youtube.com/vi/${videoId}/${imgSize || 'mqdefault'}.jpg`})`,
+            width: 320,
+            height: 180
           }}
-          onClick={() => setShowVideo(true)}
+          onClick={() => {setShowVideo(true);console.log('Video clicked!');}}
         >
           <div className={styles.playButton} />
         </div>
