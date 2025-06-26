@@ -2,7 +2,7 @@
 import '../styles/global.css';
 import Footer from '../components/Footer/Footer.astro';
 import Nav from '../components/Nav/Nav.astro';
-
+const title = Astro.props.title || 'Game Recs App';
 const path = Astro.url.pathname;
 let activeTab = 0;
 if (path.includes('action')) activeTab = 1;
@@ -13,10 +13,10 @@ else activeTab = 0; // default to Stealth
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<link rel="icon" type="image/x-icon" href="/g-logo.png">
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
-		<title>Stealth Games</title>
+		<title>{title}</title>
 	</head>
 	<body>
         <Nav activeTab={activeTab} />

@@ -7,7 +7,7 @@ import Toolbar from '../components/Toolbar/Toolbar.astro';
 import games from '../data/games.json';
 const filteredGames = games.filter(game => game.tags?.includes('action'));
 ---
-<MainPage title="Home Page">
+<MainPage title="Action Games">
   <Toolbar heading="Action Games"/>
   <GameList games={filteredGames} />
   <DataBox games={filteredGames} id="game_data_json"/>
