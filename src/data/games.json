@@ -58,7 +58,7 @@
       "tags": ["stealth", "linear", "action",  "singleplayer"],
       "trailer": "https://www.youtube.com/watch?v=6H5vZ5QIYSI",
       "franchise": "splinter_cell",
-      "steam": null
+      "steam": "https://store.steampowered.com/app/235600/Tom_Clancys_Splinter_Cell_Blacklist/"
     },
     {
       "title": "Tom Clancy's Splinter Cell: Conviction",
@@ -68,7 +68,7 @@
       "tags": ["stealth", "linear", "action", "singleplayer"],
       "trailer": "https://www.youtube.com/watch?v=6Ww_IFU6kg4",
       "franchise": "splinter_cell",
-      "steam": null
+      "steam": "https://store.steampowered.com/app/33220/Tom_Clancys_Splinter_Cell_Conviction/"
     }, 
    
     {
@@ -277,7 +277,7 @@
         "developer": "CI Games",
         "year": 2017,
         "tags": ["sniper", "stealth", "action", "open-world", "singleplayer", "first-person"],
-        "trailer": "",
+        "trailer": "https://www.youtube.com/watch?v=Zq4Gxzge9Fc",
         "franchise": "sniper_ghost_warrior",
         "steam": "https://store.steampowered.com/app/368070/Sniper_Ghost_Warrior_3/"
       },
@@ -297,7 +297,7 @@
         "developer": "CI Games",
         "year": 2021,
         "tags": ["sniper", "stealth", "action", "singleplayer", "first-person"],
-        "trailer": "Welcome to Kuamar Trailer (Apr 2021)",
+        "trailer": "https://www.youtube.com/watch?v=36mfp4GYLX4",
         "franchise": "sniper_ghost_warrior",
         "steam": "https://store.steampowered.com/app/1338770/Sniper_Ghost_Warrior_Contracts_2/"
       },

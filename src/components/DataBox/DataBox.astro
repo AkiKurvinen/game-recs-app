@@ -2,44 +2,60 @@
 const { games } = Astro.props;
 ---
 <div class="max-w-[900px] mx-auto my-4" id="game_data_json">
-    <h2>Data</h2>
-    <input class="menubtn hidden" type="radio" name="tabs" id="tab1" checked>
-    <label for="tab1" class="tab-label px-4 py-1 rounded-t-md text-sm font-medium cursor-pointer transition-colors duration-150">Only Titles</label>
-    <input class="menubtn hidden" type="radio" name="tabs" id="tab2">
-    <label for="tab2" class="tab-label px-4 py-1 rounded-t-md text-sm font-medium cursor-pointer transition-colors duration-150">Full JSON</label>
+   <h2>Data</h2>
+   <input class="menubtn hidden" type="radio" name="tabs" id="tab1" checked>
+   <label for="tab1" class="tab-label px-4 py-1 rounded-t-md text-sm font-medium cursor-pointer transition-colors duration-150">Only Titles</label>
+   <input class="menubtn hidden" type="radio" name="tabs" id="tab2">
+   <label for="tab2" class="tab-label px-4 py-1 rounded-t-md text-sm font-medium cursor-pointer transition-colors duration-150">Full JSON</label>
 
-  <div class="tab content1">
-    <textarea id="game-titles" class="w-full h-40 p-2 rounded bg-[#181818] text-gray-100 border border-gray-700 resize-y" readonly>{games.map((g: any) => g.title).join('\n')}</textarea>
-  </div>
-  <div class="tab content2">
-    <textarea id="game-json" class="w-full h-40 p-2 rounded bg-[#181818] text-gray-100 border border-gray-700 resize-y" readonly>{JSON.stringify(games, null, 2)}</textarea>
-   
-  </div>        <div class="text-xs text-gray-400 mt-2 flex items-center gap-1">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="inline w-4 h-4 text-gray-400"><path d="M12 2C6.477 2 2 6.477 2 12s4.477 10 10 10 10-4.477 10-10S17.523 2 12 2zm0 18a8 8 0 1 1 0-16 8 8 0 0 1 0 16zm-2-7.5V8a1 1 0 1 1 2 0v4.5a1 1 0 0 1-2 0zm1 4a1.25 1.25 0 1 1 0-2.5 1.25 1.25 0 0 1 0 2.5z"/></svg>
+   <div class="tab content1">
+      <textarea id="game-titles" class="w-full h-40 p-2 rounded bg-[#181818] text-gray-100 border border-gray-700 resize-y" readonly>{games.map((g: any) => g.title).join('\n')}</textarea>
+   </div>
+   <div class="tab content2">
+      <textarea id="game-json" class="w-full h-40 p-2 rounded bg-[#181818] text-gray-100 border border-gray-700 resize-y" readonly>{JSON.stringify(games, null, 2)}</textarea>
+   </div>
+   <div class="text-xs text-gray-400 mt-2 flex items-center gap-1">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="inline w-4 h-4 text-gray-400">
+         <path d="M12 2C6.477 2 2 6.477 2 12s4.477 10 10 10 10-4.477 10-10S17.523 2 12 2zm0 18a8 8 0 1 1 0-16 8 8 0 0 1 0 16zm-2-7.5V8a1 1 0 1 1 2 0v4.5a1 1 0 0 1-2 0zm1 4a1.25 1.25 0 1 1 0-2.5 1.25 1.25 0 0 1 0 2.5z" />
+      </svg>
 
-        <span>Game data is <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank" rel="noopener" class="underline hover:text-blue-400">CC0 (Public Domain)</a></span>
-        <p>Last updated: 25.6.2025. Data may contain errors and inaccuracies.</p>
- </div>
-  <style>
-    .menubtn { display: none; }
-    .tab { display: none; }
-    #tab1:checked ~ .tab-label[for="tab1"],
-    #tab2:checked ~ .tab-label[for="tab2"] {
+      <span>Game data is <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank" rel="noopener" class="underline hover:text-blue-400">CC0 (Public Domain)</a></span>
+      <p>Last updated: 26.6.2025. Data may contain errors and inaccuracies.</p>
+   </div>
+   <style>
+   .menubtn {
+      display: none;
+   }
+
+   .tab {
+      display: none;
+   }
+
+   #tab1:checked~.tab-label[for="tab1"],
+   #tab2:checked~.tab-label[for="tab2"] {
       background: #232323;
       color: #fff;
       border-bottom: 2px solid #3b82f6;
-    }
-    .tab-label {
+   }
+
+   .tab-label {
       background: #181818;
       color: #a3a3a3;
       border-bottom: 2px solid transparent;
-    }
-    #tab1:checked ~ .content1 { display: block; }
-    #tab2:checked ~ .content2 { display: block; }
-    /* Responsive and focus styles */
-    .tab-label:focus {
+   }
+
+   #tab1:checked~.content1 {
+      display: block;
+   }
+
+   #tab2:checked~.content2 {
+      display: block;
+   }
+
+   /* Responsive and focus styles */
+   .tab-label:focus {
       outline: 2px solid #3b82f6;
       outline-offset: 2px;
-    }
-  </style>
+   }
+   </style>
 </div>
