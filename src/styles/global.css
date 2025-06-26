@@ -9,7 +9,9 @@ html {
 body {
     margin: 0 auto;
     padding: 0;
+
 }
+
 
 * {
     box-sizing: border-box;
@@ -32,4 +34,8 @@ h2 {
 
 button:hover {
     cursor: pointer;
+}
+
+main {
+    min-height: 80vh;
 }
