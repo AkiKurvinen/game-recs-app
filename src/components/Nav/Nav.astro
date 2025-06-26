@@ -1,10 +1,12 @@
 ---
-const navLinks = [
-  { href: '/', label: 'Stealth' },
-  { href: '/action', label: 'Action' },
-  { href: '/horror', label: 'Horror' },
-];
+import { base } from "astro:config/client";
 const { activeTab = 0 } = Astro.props;
+
+const navLinks = [
+  { href: `${base}/`, label: 'Stealth' },
+  { href: `${base}/action`, label: 'Action' },
+  { href: `${base}/horror`, label: 'Horror' },
+];
 ---
 <nav class="w-full bg-[#181818] py-4 px-6 flex items-center justify-between shadow-md sticky top-0 z-50">
   <div class="flex items-center gap-4">
