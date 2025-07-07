@@ -15,17 +15,27 @@
       "publisher": "Bethesda Softworks",
       "developer": "Arkane Studios",
       "year": 2016,
-      "tags": ["stealth", "linear", "singleplayer", "first-person"],
+      "tags": ["stealth", "linear", "supernatural", "singleplayer", "first-person"],
       "trailer": "https://www.youtube.com/watch?v=7bLNC8VDTlQ",
       "franchise": "dishonored",
       "steam": "https://store.steampowered.com/app/403640/Dishonored_2/"
+    },
+    {
+      "title": "Dishonored: Death of the Outsider",
+      "publisher": "Bethesda Softworks",
+      "developer": "Arkane Studios",
+      "year": 2017,
+      "tags": ["stealth", "linear", "supernatural", "singleplayer", "first-person"],
+      "trailer": "https://www.youtube.com/watch?v=Nea82Rt5vRI",
+      "franchise": "dishonored",
+      "steam": "https://store.steampowered.com/agecheck/app/614570/"
     },
     {
       "title": "Dishonored: The Knife of Dunwall",
       "publisher": "Bethesda Softworks",
       "developer": "Arkane Studios",
       "year": 2013,
-      "tags": ["stealth", "linear", "dlc", "singleplayer", "first-person"],
+      "tags": ["stealth", "linear", "dlc", "supernatural", "singleplayer", "first-person"],
       "trailer": "https://www.youtube.com/watch?v=yuXD-Yt4flc",
       "franchise": "dishonored",
       "steam": "https://store.steampowered.com/app/208575/Dishonored__The_Knife_of_Dunwall/"
@@ -35,21 +45,12 @@
       "publisher": "Bethesda Softworks",
       "developer": "Arkane Studios",
       "year": 2013,
-      "tags": ["stealth", "linear", "dlc", "singleplayer", "first-person"],
+      "tags": ["stealth", "linear", "dlc", "supernatural", "singleplayer", "first-person"],
       "trailer": "https://www.youtube.com/watch?v=Rp6hY003tKs",
       "franchise": "dishonored",
       "steam": "https://store.steampowered.com/agecheck/app/212894/"
     },
-    {
-      "title": "Dishonored: Death of the Outsider",
-      "publisher": "Bethesda Softworks",
-      "developer": "Arkane Studios",
-      "year": 2017,
-      "tags": ["stealth", "linear", "dlc", "singleplayer", "first-person"],
-      "trailer": "https://www.youtube.com/watch?v=Nea82Rt5vRI",
-      "franchise": "dishonored",
-      "steam": "https://store.steampowered.com/agecheck/app/614570/"
-    },
+    
     {
       "title": "Tom Clancy's Splinter Cell: Blacklist",
       "publisher": "Ubisoft",
@@ -96,7 +97,7 @@
       "publisher": "Sega",
       "developer": "Creative Assembly",
       "year": 2014,
-      "tags": [ "stealth", "liner", "horror","singleplayer"],
+      "tags": [ "stealth", "liner", "horror","singleplayer", "scifi"],
       "trailer": "https://www.youtube.com/watch?v=7h0cgmvIrZw",
       "franchise": "alien",
       "steam": "https://store.steampowered.com/app/214490/Alien_Isolation/"
@@ -106,7 +107,7 @@
       "publisher": "Bandai Namco Entertainment",
       "developer": "Reflector Entertainment",
       "year": 2024,
-      "tags": ["stealth", "linear", "action", "singleplayer"],
+      "tags": ["stealth", "linear", "supernatural", "action", "singleplayer"],
       "trailer": "https://www.youtube.com/watch?v=jpO-jUWtm6E",
       "franchise": "unknown_9",
       "steam": "https://store.steampowered.com/app/1477940/Unknown_9_Awakening/"
@@ -120,6 +121,15 @@
       "trailer": "https://www.youtube.com/watch?v=DKrnB9gJxjQ",
       "franchise": "werewolf_the_apocalypse",
       "steam": "https://store.steampowered.com/agecheck/app/679110/"
+    },  {
+      "title": "Battlefield Hardline",
+      "publisher": "Electronic Arts",
+      "developer": "Visceral Games",
+      "year": 2015,
+      "tags": ["action", "fps", "multiplayer", "cops vs criminals", "campaign", "modern"],
+      "trailer": "https://www.youtube.com/watch?v=yWVPoUCxAC4",
+      "franchise": "battlefield",
+      "steam": "https://store.steampowered.com/app/1238880/Battlefield_Hardline/"
     },
     {
       "title": "Batman: Arkham Knight",
@@ -196,7 +206,7 @@
         "publisher": "Square Enix Europe",
         "developer": "Eidos-Montréal",
         "year": 2011,
-        "tags": ["rpg", "stealth", "singleplayer", "action", "first-person"],
+        "tags": ["stealth", "action",  "rpg", "singleplayer","first-person", "scifi"],
         "trailer": "https://www.youtube.com/watch?v=Kq5KWLqUewc",
         "franchise": "deus_ex",
         "steam": "https://store.steampowered.com/app/238010/Deus_Ex_Human_Revolution__Directors_Cut/"
@@ -206,7 +216,7 @@
         "publisher": "Square Enix Europe",
         "developer": "Eidos-Montréal",
         "year": 2016,
-        "tags": ["rpg", "stealth", "singleplayer", "action", "first-person"],
+        "tags": ["stealth", "action",  "rpg", "singleplayer","first-person", "scifi"],
         "trailer": "https://www.youtube.com/watch?v=uvSs5b6y-YM&t=2s",
         "franchise": "deus_ex",
         "steam": "https://store.steampowered.com/app/337000/Deus_Ex_Mankind_Divided/"
@@ -216,7 +226,7 @@
         "publisher": "Square Enix",
         "developer": "N-Fusion Interactive",
         "year": 2013,
-        "tags": ["rpg", "stealth", "singleplayer", "action", "first-person"],
+        "tags": ["stealth", "action",  "rpg", "singleplayer","first-person", "scifi"],
         "trailer": "https://www.youtube.com/watch?v=MOhtC3zXW04",
         "franchise": "deus_ex",
         "steam":"https://store.steampowered.com/app/258180/Deus_Ex_The_Fall/"
@@ -302,11 +312,32 @@
         "steam": "https://store.steampowered.com/app/1338770/Sniper_Ghost_Warrior_Contracts_2/"
       },
       {
+        "title": "Crysis 2",
+        "publisher": "Crytek",
+        "developer": "Crytek, Saber Interactive",
+        "year": 2011,
+        "tags": ["stealth", "action", "singleplayer", "first-person", "scifi"],
+        "trailer": "https://www.youtube.com/watch?v=TrnJiYeeHIQ",
+        "franchise": "crysis",
+        "steam": "https://store.steampowered.com/app/2096600/Crysis_2_Remastered/"
+      },
+      {
+        "title": "Crysis 3",
+        "publisher": "Crytek",
+        "developer": "Crytek, Saber Interactive",
+        "year": 2013,
+        "tags": ["stealth", "action", "singleplayer", "first-person", "scifi"],
+        "trailer": "https://www.youtube.com/watch?v=8PdGUZauShA",
+        "franchise": "crysis",
+        "steam": "https://store.steampowered.com/app/2096610/Crysis_3_Remastered/"
+      },
+      
+      {
         "title": "The Chronicles of Riddick: Escape from Butcher Bay",
         "publisher": "Vivendi Universal Games",
         "developer": "Starbreeze Studios, Tigon Studios",
         "year": 2004,
-        "tags": ["extinct", "stealth", "singleplayer", "first-person"],
+        "tags": ["extinct", "stealth", "singleplayer", "first-person", "scifi"],
         "trailer": "https://www.youtube.com/watch?v=Obzw3tWb_ro",
         "franchise": "chronicles_of_riddick",
         "steam": null
@@ -316,7 +347,7 @@
         "publisher": "Atari Interactive",
         "developer": "Starbreeze Studios, Tigon Studios",
         "year": 2009,
-        "tags": ["extinct", "stealth", "singleplayer",  "first-person"],
+        "tags": ["extinct", "stealth", "singleplayer",  "first-person", "scifi"],
         "trailer": "https://www.youtube.com/watch?v=EwQBCWw4y-U",
         "franchise": "chronicles_of_riddick",
         "steam": null

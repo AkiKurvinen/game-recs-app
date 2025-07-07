@@ -4,7 +4,7 @@ import GameList from '../components/GameList/GameList.astro';
 import DataBox from '../components/DataBox/DataBox.astro';
 import Toolbar from '../components/Toolbar/Toolbar.astro';
 
-import games from '../data/games.json';
+import games from '../data/action.json';
 const filteredGames = games.filter(game => game.tags?.includes('action'));
 ---
 <MainPage title="Action Games">

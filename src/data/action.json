@@ -1,0 +1,261 @@
+[
+    {
+        "title": "Hogwarts Legacy",
+        "publisher": "Warner Bros. Games (Portkey Games)",
+        "developer": "Avalanche Software",
+        "year": 2023,
+        "tags": ["action", "magic", "fantasy", "open world", "singleplayer"],
+        "trailer": "https://www.youtube.com/watch?v=6H9ONlVdLhs",
+        "franchise": "harry_potter",
+        "steam": "https://store.steampowered.com/app/990080/Hogwarts_Legacy/"
+      },
+      {
+        "title": "Star Wars Jedi: Fallen Order",
+        "publisher": "Electronic Arts",
+        "developer": "Respawn Entertainment",
+        "year": 2019,
+        "tags": ["action", "soulslike", "action-adventure", "singleplayer", "sci-fi", "Star Wars", "Metroidvania-style"],
+        "trailer": "https://www.youtube.com/watch?v=0GLbwkfhYZk",
+        "franchise": "star_wars",
+        "steam": "https://store.steampowered.com/app/1172380/STAR_WARS_Jedi_Fallen_Order/"
+      },
+      {
+        "title": "Star Wars Jedi: Survivor",
+        "publisher": "Electronic Arts",
+        "developer": "Respawn Entertainment",
+        "year": 2023,
+        "tags": ["action", "soulslike", "action-adventure", "singleplayer", "sci-fi", "Star Wars", "Metroidvania-style"],
+        "trailer": "https://www.youtube.com/watch?v=VRaobDJjiec",
+        "franchise": "star_wars",
+        "steam": "https://store.steampowered.com/app/1774580/STAR_WARS_Jedi_Survivor/"
+      },
+
+      {
+        "title": "Ratchet & Clank: Rift Apart",
+        "publisher": "Sony Interactive Entertainment / PlayStation Publishing LLC",
+        "developer": "Insomniac Games, Nixxes Software",
+        "year": 2021,
+        "tags": ["action", "action-adventure", "platformer", "singleplayer", "sci-fi", "3rd person shooter"],
+        "trailer": "https://www.youtube.com/watch?v=3g2vb3AF_RI",
+        "franchise": "ratchet_n_clank",
+        "steam": "https://store.steampowered.com/app/1895880/Ratchet__Clank_Rift_Apart/"
+      },
+      {
+        "title": "Wolfenstein: The New Order",
+        "publisher": "Bethesda Softworks",
+        "developer": "MachineGames",
+        "year": 2014,
+        "tags": ["action", "fps", "singleplayer", "alternate history", "action-adventure"],
+        "trailer": "https://www.youtube.com/watch?v=rIgwfHIpsCk",
+        "franchise": "wolfenstein",
+        "steam": "https://store.steampowered.com/app/201810/Wolfenstein_The_New_Order/"
+      },{
+        "title": "Marvel's Guardians of the Galaxy",
+        "publisher": "Square Enix",
+        "developer": "Eidos-Montréal",
+        "year": 2021,
+        "tags": ["action", "action-adventure","singleplayer","sci-fi","story-driven","third-person"],
+        "trailer": "https://www.youtube.com/watch?v=Q0fdMDwhVzk",
+        "franchise": "marvels_guardians",
+        "steam": "https://store.steampowered.com/app/1811260/Marvels_Guardians_of_the_Galaxy/"
+      },
+      {
+        "title": "Immortals of Aveum",
+        "publisher": "Electronic Arts",
+        "developer": "Ascendant Studios",
+        "year": 2023,
+        "tags": ["action", "fps","magic","singleplayer","fantasy","Unreal Engine 5"],
+        "trailer": "https://www.youtube.com/watch?v=mNP3ztvNBFI",
+        "franchise": "immortals_of_aveum",
+        "steam": "https://store.steampowered.com/app/2009100/Immortals_of_Aveum/"
+      },{
+        "title": "Mass Effect 2",
+        "publisher": "Electronic Arts",
+        "developer": "BioWare",
+        "year": 2010,
+        "tags": ["action", "action role-playing", "sci-fi", "singleplayer", "choices matter", "squad-based"],
+        "trailer": "https://www.youtube.com/watch?v=lx9sPQpjgjU", 
+        "franchise": "mass_effect",
+        "steam": "https://store.steampowered.com/app/2362420/Mass_Effect_2_2010_Edition/"
+      },
+      {
+        "title": "Black Mesa",
+        "publisher": "Crowbar Collective",
+        "developer": "Crowbar Collective",
+        "year": 2020,
+        "tags": ["action", "fps", "singleplayer", "remake", "science-fiction", "Source engine"],
+        "trailer": "https://www.youtube.com/watch?v=V7vDsarvyoc",
+        "franchise": "half_life",
+        "steam": "https://store.steampowered.com/app/362890/Black_Mesa/"
+      },
+      {
+        "title": "A Plague Tale: Innocence",
+        "publisher": "Focus Home Interactive",
+        "developer": "Asobo Studio",
+        "year": 2019,
+        "tags": ["action", "action-adventure", "stealth", "survival horror", "singleplayer", "historical"],
+        "trailer": "https://www.youtube.com/watch?v=gjIb9dQgUF0",
+        "franchise": "a_plague_tale",
+        "steam": "https://store.steampowered.com/app/752590/A_Plague_Tale_Innocence/"
+      },
+      {
+        "title": "Doom 2016",
+        "publisher": "Bethesda Softworks",
+        "developer": "id Software",
+        "year": 2016,
+        "tags": ["action", "fps", "singleplayer", "fast-paced"],
+        "trailer": "https://www.youtube.com/watch?v=SgSrpnW0EmU",
+        "franchise": "doom",
+        "steam": "https://store.steampowered.com/app/379720/DOOM/"
+      },
+      {
+        "title": "DOOM Eternal",
+        "year": 2020,
+        "tags":["action", "fps", "singleplayer", "fast-paced"],
+        "trailer": "https://www.youtube.com/watch?v=_UuktemkCFI",
+        "franchise": "doom",
+        "steam": "https://store.steampowered.com/app/782330/DOOM_Eternal/"
+        },
+      {
+        "title": "Rage 2",
+        "publisher": "Bethesda Softworks",
+        "developer": "Avalanche Studios, id Software",
+        "year": 2019,
+        "tags": ["action", "fps", "open world", "post-apocalyptic", "singleplayer"],
+        "trailer": "https://www.youtube.com/watch?v=fgPRE5pak6k",
+        "franchise": "rage",
+        "steam": "https://store.steampowered.com/app/548570/RAGE_2/"
+      },
+    
+      {
+        "title": "Days Gone",
+        "publisher": "Sony Interactive Entertainment",
+        "developer": "Bend Studio",
+        "year": 2019,
+        "tags": ["action", "open world", "zombies", "survival", "singleplayer", "post-apocalyptic"],
+        "trailer": "https://www.youtube.com/watch?v=OQ1CwPhE8KQ",
+        "franchise": "says_gone",
+        "steam": "https://store.steampowered.com/app/1259420/Days_Gone/"
+      },
+      {
+        "title": "Control",
+        "publisher": "505 Games",
+        "developer": "Remedy Entertainment",
+        "year": 2019,
+        "tags": ["action", "tps", "supernatural", "action-adventure", "singleplayer", "sci-fi"],
+        "trailer": "https://www.youtube.com/watch?v=F74LLDhAhhI",
+        "franchise": "control",
+        "steam": "https://store.steampowered.com/app/870780/Control_Ultimate_Edition/"
+      },
+      {
+        "title": "Deadfall Adventures",
+        "publisher": "Nordic Games",
+        "developer": "The Farm 51",
+        "year": 2013,
+        "tags": ["action", "fps", "adventure", "puzzle", "singleplayer", "exploration"],
+        "trailer": "https://www.youtube.com/watch?v=f2PYchL97ss",
+        "franchise": "deadfall_adventures",
+        "steam": "https://store.steampowered.com/app/231330/Deadfall_Adventures/"
+      },
+      {
+        "title": "DmC: Devil May Cry",
+        "publisher": "Capcom",
+        "developer": "Ninja Theory",
+        "year": 2013,
+        "tags": ["action", "hack and slash", "action", "third-person", "singleplayer", "reboot"],
+        "trailer": "https://www.youtube.com/watch?v=-cWH5Sobjeg",
+        "franchise": "devil_may_cry",
+        "steam": "https://store.steampowered.com/app/220440/DmC_Devil_May_Cry/"
+      },
+      {
+        "title": "Far Cry 3",
+        "publisher": "Ubisoft",
+        "developer": "Ubisoft Montreal",
+        "year": 2012,
+        "tags": ["action", "open world", "fps", "action-adventure", "singleplayer", "tropical"],
+        "trailer": "https://www.youtube.com/watch?v=J6gnOVJsCsM",
+        "franchise": "far_cry",
+        "steam": "https://store.steampowered.com/app/220240/Far_Cry_3/"
+      },
+      {
+        "title": "Far Cry 5",
+        "tags": ["action", "open world", "fps"],
+        "franchise": "far_cry"
+        },
+      {
+        "title": "Ghostwire: Tokyo",
+        "publisher": "Bethesda Softworks",
+        "developer": "Tango Gameworks",
+        "year": 2022,
+        "tags": ["action", "magic", "first-person", "supernatural", "action-adventure", "open world", "singleplayer"],
+        "trailer": "https://www.youtube.com/watch?v=l4tkNjJsOvY",
+        "franchise": "ghostwire",
+        "steam": "https://store.steampowered.com/app/1475810/Ghostwire_Tokyo/"
+      },
+      {
+        "title": "Dying Light",
+        "tags": ["action", "zombie", "first-person","parkour"],
+        "franchise": "dying_light"
+      },
+      {
+        "title": "Atomic Heart",
+        "tags": ["action","immersive sim",  "fps" ],
+        "franchise": "atomic_heart"
+      },
+      {
+        "title": "Hellblade: Senua's Sacrifice",
+        "tags": ["action", "melee"],
+        "franchise": "hellblade"
+      },
+      {
+        "title": "Quake 4",
+        "tags": ["action", "fps", "fast-paced"],
+        "franchise": "quake"
+      },
+      {
+        "title": "Remember Me",
+        "tags": ["action", "fighting"],
+        "franchise": "remember_me",
+        "steam":"https://store.steampowered.com/app/228300/Remember_Me/"
+      },
+      {
+        "title": "Resident Evil 4 (2023 Remake)",
+        "tags": ["action", "tps"],
+        "franchise": "resident_evil"
+      },
+      {
+        "title": "Singularity",
+        "tags": ["action", "fps"],
+        "franchise": "singularity"
+      },
+      {
+        "title": "The Surge",
+        "tags": ["action", "soulslike"],
+        "franchise": "the_surge"
+      },
+      {
+        "title": "Quantum Break",
+        "tags": ["action", "tps"],
+        "franchise": "quantum_break",
+        "steam":"https://store.steampowered.com/app/474960/Quantum_Break/"
+      },
+      {
+        "title": "Steelrising",
+        "tags": ["action", "soulslike"],
+        "franchise": "steelrising",
+        "steam":"https://store.steampowered.com/app/1283400/Steelrising/"
+      },
+    {
+        "title":"God of War",
+        "tags": ["action", "melee"],
+        "franchise": "god:of:was",
+        "steam":"https://store.steampowered.com/app/1593500/God_of_War/"
+    }, 
+    {
+      "title":"Call of Duty 4: Modern Warfare",
+      "tags": ["action", "fps"],
+      "franchise": "cod",
+      "steam":"https://store.steampowered.com/app/7940/Call_of_Duty_4_Modern_Warfare_2007/"
+    }
+
+]
