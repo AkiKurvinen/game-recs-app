@@ -4,16 +4,30 @@
     "publisher": "Sega",
     "developer": "Creative Assembly",
     "year": 2014,
-    "tags": [ "horror", "stealth", "linear", "singleplayer", "scifi"],
+    "tags": [
+      "horror",
+      "stealth",
+      "linear",
+      "singleplayer",
+      "1st-person",
+      "sci-fi"
+    ],
     "trailer": "https://www.youtube.com/watch?v=7h0cgmvIrZw",
     "franchise": "alien",
     "steam": "https://store.steampowered.com/app/214490/Alien_Isolation/"
-  },{
+  },
+  {
     "title": "GYLT",
     "publisher": "Tequila Works",
     "developer": "Tequila Works, Parallel Circles",
     "year": 2019,
-    "tags": ["horror", "stealth", "linear", "singleplayer"],
+    "tags": [
+      "horror",
+      "stealth",
+      "linear",
+      "3rd-person",
+      "singleplayer"
+    ],
     "trailer": "https://www.youtube.com/watch?v=vnnY1GW_hog",
     "franchise": "gylt",
     "steam": "https://store.steampowered.com/app/2206210/GYLT"
@@ -23,7 +37,11 @@
     "publisher": "Bethesda Softworks",
     "developer": "Tango Gameworks",
     "year": 2014,
-    "tags": ["horror", "third-person shooter", "singleplayer"],
+    "tags": [
+      "horror",
+      "singleplayer",
+      "3rd-person"
+    ],
     "trailer": "https://www.youtube.com/watch?v=H2qITQHud2I",
     "franchise": "the_evil_within",
     "steam": "https://store.steampowered.com/agecheck/app/268050/"
@@ -33,301 +51,463 @@
     "publisher": "Bethesda Softworks",
     "developer": "Tango Gameworks",
     "year": 2017,
-    "tags": ["horror", "stealth", "third-person shooter", "singleplayer"],
+    "tags": [
+      "horror",
+      "stealth",
+      "singleplayer",
+      "3rd-person"
+    ],
     "trailer": "https://www.youtube.com/watch?v=f7JbFBq4NAo",
     "franchise": "the_evil_within",
-    "steam":"https://store.steampowered.com/agecheck/app/601430/"
+    "steam": "https://store.steampowered.com/agecheck/app/601430/"
   },
   {
     "title": "In Sound Mind",
     "publisher": "Modus Games",
     "developer": "We Create Stuff",
     "year": 2021,
-    "tags": ["horror", "first-person", "puzzle", "singleplayer"],
+    "tags": [
+      "horror",
+      "1st-person",
+      "puzzle",
+      "singleplayer"
+    ],
     "trailer": "https://www.youtube.com/watch?v=DfOql4RfrHw",
     "franchise": "in_sound_mind",
     "steam": "https://store.steampowered.com/app/1119980/In_Sound_Mind/"
-  }, {
+  },
+  {
     "title": "The Chant",
     "publisher": "Prime Matter",
     "developer": "Brass Token",
     "year": 2022,
-    "tags": ["horror", "third-person", "singleplayer"],
+    "tags": [
+      "horror",
+      "3rd-person",
+      "singleplayer"
+    ],
     "trailer": "https://www.youtube.com/watch?v=zqa28ejtoUk",
     "franchise": "the_chant",
-    "steam":"https://store.steampowered.com/agecheck/app/1577250/"
+    "steam": "https://store.steampowered.com/agecheck/app/1577250/"
   },
-    {
-      "title": "SOMA",
-      "publisher": "Frictional Games",
-      "developer": "Frictional Games",
-      "year": 2015,
-      "tags": ["horror", "first-person", "sci-fi", "singleplayer"],
-      "trailer": "https://www.youtube.com/watch?v=BZTfi1jv-EE",
-      "franchise": "soma",
-      "steam":"https://store.steampowered.com/app/282140/SOMA/"
-    },
-    {
-      "title": "Amnesia: The Bunker",
-      "publisher": "Frictional Games",
-      "developer": "Frictional Games",
-      "year": 2023,
-      "tags": ["horror", "first-person", "singleplayer"],
-      "trailer": "https://www.youtube.com/watch?v=lll4QzbS2U0",
-      "franchise": "amnesia",
-      "steam":"https://store.steampowered.com/app/1944430/Amnesia_The_Bunker/"
-    },{
-      "title": "Amnesia: The Dark Descent",
-      "publisher": "Frictional Games",
-      "developer": "Frictional Games",
-      "year": 2010,
-      "tags": ["horror", "first-person", "singleplayer"],
-      "trailer": "https://www.youtube.com/watch?v=u1nY_5-UrY4",
-      "franchise": "amnesia",
-      "steam":"https://store.steampowered.com/app/57300/Amnesia_The_Dark_Descent/"
-    },
-    {
-      "title": "Amnesia: Rebirth",
-      "publisher": "Frictional Games",
-      "developer": "Frictional Games",
-      "year": 2020,
-      "tags": ["horror", "first-person", "singleplayer"],
-      "trailer": "https://www.youtube.com/watch?v=zZGDBBk89Vk",
-      "franchise": "amnesia",
-      "steam":"https://store.steampowered.com/app/999220/Amnesia_Rebirth/"
-    },
-   {
-      "title": "Penumbra: Black Plague",
-      "publisher": "Paradox Interactive",
-      "developer": "Frictional Games",
-      "year": 2008,
-      "tags": ["horror", "first-person", "singleplayer"],
-      "trailer": "https://www.youtube.com/watch?v=At-w8G6YvKo",
-      "franchise": "penumbra",
-      "steam":"https://store.steampowered.com/app/22120/Penumbra_Black_Plague_Gold_Edition/"
-    },
-    {
-      "title": "Penumbra: Overture",
-      "publisher": "Paradox Interactive",
-      "developer": "Frictional Games",
-      "year": 2007,
-      "tags": ["horror", "first-person", "singleplayer"],
-      "trailer": "https://www.youtube.com/watch?v=I0EN3JIxYw4",
-      "franchise": "penumbra",
-      "steam":"https://store.steampowered.com/app/22180/Penumbra_Overture"
-    },
-    {
-      "title": "Dead Space",
-      "publisher": "Electronic Arts",
-      "developer": "EA Redwood Shores",
-      "year": 2008,
-      "tags": ["horror", "third-person shooter", "singleplayer", "scifi"],
-      "trailer": "https://www.youtube.com/watch?v=ctQl9wa3ydE",
-      "franchise": "dead_space",
-      "steam":"https://store.steampowered.com/app/1693980/Dead_Space/"
-    },
-    {
-      "title": "Dead Space 2",
-      "publisher": "Electronic Arts",
-      "developer": "Visceral Games",
-      "year": 2011,
-      "tags": ["horror", "third-person shooter", "singleplayer", "scifi"],
-      "trailer": "https://www.youtube.com/watch?v=776fi2I8e6U",
-      "franchise": "dead_space",
-      "steam":"https://store.steampowered.com/app/47780/Dead_Space_2"
-    },
-    {
-      "title": "Dead Space 3",
-      "publisher": "Electronic Arts",
-      "developer": "Visceral Games",
-      "year": 2013,
-      "tags": ["horror", "third-person shooter", "singleplayer", "co-op", "scifi"],
-      "trailer": "https://www.youtube.com/watch?v=U356b_x0_4U",
-      "franchise": "dead_space",
-      "steam": "https://store.steampowered.com/app/1238060/Dead_Space_3"
-    },
-    {
-      "title": "F.E.A.R. (First Encounter Assault Recon)",
-      "publisher": "Vivendi Universal Games / Sierra (Windows), Warner Bros. Games (consoles)",
-      "developer": "Monolith Productions (PC), Day 1 Studios (Xbox 360 & PS3 ports)",
-      "year": 2005,
-      "tags": ["horror", "fps", "singleplayer", "multiplayer"],
-      "trailer": "https://www.youtube.com/watch?v=ylyf9dfp2-c",
-      "franchise": "fear",
-      "steam":"https://store.steampowered.com/agecheck/app/21090/"
-    },
-    {
-      "title": "F.E.A.R. 2: Project Origin",
-      "publisher": "Warner Bros. Games",
-      "developer": "Monolith Productions",
-      "year": 2009,
-      "tags": ["horror", "fps", "singleplayer"],
-      "trailer": "https://www.youtube.com/watch?v=kBTnDwW3i48",
-      "franchise": "fear",
-      "steam":"https://store.steampowered.com/app/16450/FEAR_2_Project_Origin"
-    },
-    {
-      "title": "F.E.A.R. 3",
-      "publisher": "Warner Bros. Games",
-      "developer": "Day 1 Studios",
-      "year": 2011,
-      "tags": ["horror", "fps", "singleplayer", "co-op"],
-      "trailer": "https://www.youtube.com/watch?v=Vpr_6O5iyls",
-      "franchise": "fear",
-      "steam":"https://store.steampowered.com/app/21100/FEAR_3/"
-    },
-    {
-      "title": "Maid of Sker",
-      "publisher": "Wales Interactive",
-      "developer": "Wales Interactive",
-      "year": 2020,
-      "tags": ["horror", "first-person", "stealth", "singleplayer"],
-      "trailer": "https://www.youtube.com/watch?v=cTbDOXIDZRo", 
-      "franchise": "maid_of_sker",
-      "steam":"https://store.steampowered.com/app/826940/Maid_of_Sker/"
-    },
-    {
-      "title": "Moons of Madness",
-      "publisher": "Funcom",
-      "developer": "Rock Pocket Games",
-      "year": 2019,
-      "tags": ["horror", "first-person", "puzzle", "singleplayer", "scifi"],
-      "trailer": "https://www.youtube.com/watch?v=YkhrCJF8Y4s",
-      "franchise": "Moons of Madness",
-      "steam":"https://store.steampowered.com/app/1012840/Moons_of_Madness"
-    },
-    {
-      "title": "Outlast",
-      "publisher": "Red Barrels",
-      "developer": "Red Barrels",
-      "year": 2013,
-      "tags": ["horror", "first-person", "stealth", "singleplayer"],
-      "trailer": "https://www.youtube.com/watch?v=uKA-IA4locM",
-      "franchise": "outlast",
-      "steam":"https://store.steampowered.com/app/238320/Outlast/ "
-    },
-    {
-      "title": "Outlast 2",
-      "publisher": "Red Barrels",
-      "developer": "Red Barrels",
-      "year": 2017,
-      "tags": ["horror", "first-person", "horror", "singleplayer"],
-      "trailer": "https://www.youtube.com/watch?v=MKrUZ36IVAY",
-      "franchise": "outlast",
-      "steam":"https://store.steampowered.com/app/414700/Outlast_2/"
-    },
-    {
-      "title": "Resident Evil 7: Biohazard",
-      "publisher": "Capcom",
-      "developer": "Capcom",
-      "year": 2017,
-      "tags": ["horror", "first-person", "singleplayer"],
-      "trailer": "https://www.youtube.com/watch?v=RgYqQsbKn6w",
-      "franchise": "resident_evil",
-      "steam":"https://store.steampowered.com/app/418370/Resident_Evil_7_Biohazard/"
-    },  {
-      "title": "Resident Evil 2 (2019 Remake)",
-      "tags": ["horror", "action"],
-      "franchise": "resident_evil"
-    },
-    {
-      "title": "Silent Hill 2 (2024 Remake)",
-      "publisher": "Konami",
-      "developer": "Bloober Team",
-      "year": 2024,
-      "tags": ["horror", "third-person", "singleplayer"],
-      "trailer": "https://www.youtube.com/watch?v=-fsQjJmYx6U",
-      "franchise": "silent_hill",
-      "steam":"https://store.steampowered.com/app/2124490/SILENT_HILL_2/"
-      },
-      {
-        "title": "The Sinking City",
-        "publisher": "Bigben Interactive",
-        "developer": "Frogwares",
-        "year": 2019,
-        "tags": [ "horror", "detective", "third-person", "open world", "singleplayer", "mystery"],
-        "trailer": "https://www.youtube.com/watch?v=iXhw7OcPw8Y",
-        "franchise": "the_sinking_city",
-        "steam": "https://store.steampowered.com/app/750130/The_Sinking_City_Remastered/"
-      },
-      {
-        "title": "Murdered: Soul Suspect",
-        "publisher": "Square Enix",
-        "developer": "Airtight Games",
-        "year": 2014,
-        "tags": ["horror", "detective", "third-person", "singleplayer"],
-        "trailer": "https://www.youtube.com/watch?v=1xH4_YGEBPo",
-        "franchise": "murdered_soul_suspect",
-        "steam": "https://store.steampowered.com/app/233290/Murdered_Soul_Suspect/"
-      },
-      {
-        "title": "Call of Cthulhu",
-        "publisher": "Focus Home Interactive",
-        "developer": "Cyanide",
-        "year": 2018,
-        "tags": ["horror", "detective", "first-person", "singleplayer"],
-        "trailer": "https://www.youtube.com/watch?v=QxPAm7sHbZQ",
-        "franchise": "call_of_cthulhu",
-        "steam": "https://store.steampowered.com/app/527230/Call_of_Cthulhu/"
-      },
-      {
-        "title": "Still Wakes the Deep",
-        "publisher": "Secret Mode",
-        "developer": "The Chinese Room",
-        "year": 2024,
-        "tags": ["horror", "first-person", "singleplayer", "narrative-driven"],
-        "trailer": "https://www.youtube.com/watch?v=otQMSwqKU_Q",
-        "franchise": "still_wakes_the_deep",
-        "steam": "https://store.steampowered.com/app/1622910/Still_Wakes_the_Deep/"
-      },
-      {
-        "title": "Vampyr",
-        "publisher": "Focus Home Interactive",
-        "developer": "Dontnod Entertainment",
-        "year": 2018,
-        "tags": ["horror", "RPG", "open world", "singleplayer", "dark fantasy"],
-        "trailer": "https://www.youtube.com/watch?v=TdTcv3uUi1o",
-        "franchise": "vampyr",
-        "steam": "https://store.steampowered.com/app/427290/Vampyr/"
-      },
-      {
-        "title": "Little Nightmares",
-        "publisher": "Bandai Namco Entertainment",
-        "developer": "Tarsier Studios",
-        "year": 2017,
-        "tags": ["horror", "2.5D", "stealth", "puzzle-platformer", "atmospheric", "singleplayer"],
-        "trailer": "https://www.youtube.com/watch?v=aOadxZBsPiA",
-        "franchise": "little_nightmares",
-        "steam":"https://store.steampowered.com/app/424840/Little_Nightmares"
-      },
-      {
-        "title": "Little Nightmares II",
-        "publisher": "Bandai Namco Entertainment",
-        "developer": "Tarsier Studios",
-        "year": 2021,
-        "tags": ["horror", "2.5D", "stealth","puzzle-platformer", "singleplayer"],
-        "trailer": "https://www.youtube.com/watch?v=AI9zBBTyX-E",
-        "franchise": "little_nightmares",
-        "steam":"https://store.steampowered.com/app/860510/Little_Nightmares_II"
-      },
-      {
-        "title": "Little Nightmares III",
-        "publisher": "Bandai Namco Entertainment",
-        "developer": "Supermassive Games",
-        "year": 2025,
-        "tags": ["horror", "2.5D", "stealth", "puzzle-platformer", "singleplayer", "co-op"],
-        "trailer": "https://www.youtube.com/watch?v=XFHOsobwFrA",
-        "franchise": "little_nightmares",
-        "steam":"https://store.steampowered.com/app/1392860/Little_Nightmares_III"
-      },
-      {
-        "title": "Limbo",
-        "publisher": "Microsoft Game Studios (initial), Playdead (self-published ports)",
-        "developer": "Playdead",
-        "year": 2010,
-        "tags": ["horror", "2D","puzzle-platform", "singleplayer"],
-        "trailer": "https://www.youtube.com/watch?v=Y4HSyVXKYz8",
-        "franchise": "limbo",
-        "steam":"https://store.steampowered.com/app/48000/LIMBO?snr=1_7_15__13"
-      }
+  {
+    "title": "SOMA",
+    "publisher": "Frictional Games",
+    "developer": "Frictional Games",
+    "year": 2015,
+    "tags": [
+      "horror",
+      "1st-person",
+      "sci-fi",
+      "singleplayer"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=BZTfi1jv-EE",
+    "franchise": "soma",
+    "steam": "https://store.steampowered.com/app/282140/SOMA/"
+  },
+  {
+    "title": "Amnesia: The Bunker",
+    "publisher": "Frictional Games",
+    "developer": "Frictional Games",
+    "year": 2023,
+    "tags": [
+      "horror",
+      "1st-person",
+      "singleplayer"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=lll4QzbS2U0",
+    "franchise": "amnesia",
+    "steam": "https://store.steampowered.com/app/1944430/Amnesia_The_Bunker/"
+  },
+  {
+    "title": "Amnesia: The Dark Descent",
+    "publisher": "Frictional Games",
+    "developer": "Frictional Games",
+    "year": 2010,
+    "tags": [
+      "horror",
+      "1st-person",
+      "singleplayer"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=u1nY_5-UrY4",
+    "franchise": "amnesia",
+    "steam": "https://store.steampowered.com/app/57300/Amnesia_The_Dark_Descent/"
+  },
+  {
+    "title": "Amnesia: Rebirth",
+    "publisher": "Frictional Games",
+    "developer": "Frictional Games",
+    "year": 2020,
+    "tags": [
+      "horror",
+      "1st-person",
+      "singleplayer"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=zZGDBBk89Vk",
+    "franchise": "amnesia",
+    "steam": "https://store.steampowered.com/app/999220/Amnesia_Rebirth/"
+  },
+  {
+    "title": "Penumbra: Black Plague",
+    "publisher": "Paradox Interactive",
+    "developer": "Frictional Games",
+    "year": 2008,
+    "tags": [
+      "horror",
+      "1st-person",
+      "singleplayer"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=At-w8G6YvKo",
+    "franchise": "penumbra",
+    "steam": "https://store.steampowered.com/app/22120/Penumbra_Black_Plague_Gold_Edition/"
+  },
+  {
+    "title": "Penumbra: Overture",
+    "publisher": "Paradox Interactive",
+    "developer": "Frictional Games",
+    "year": 2007,
+    "tags": [
+      "horror",
+      "1st-person",
+      "singleplayer"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=I0EN3JIxYw4",
+    "franchise": "penumbra",
+    "steam": "https://store.steampowered.com/app/22180/Penumbra_Overture"
+  },
+  {
+    "title": "Dead Space",
+    "publisher": "Electronic Arts",
+    "developer": "EA Redwood Shores",
+    "year": 2008,
+    "tags": [
+      "horror",
+      "shooter",
+      "3rd-person",
+      "singleplayer",
+      "sci-fi"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=ctQl9wa3ydE",
+    "franchise": "dead_space",
+    "steam": "https://store.steampowered.com/app/1693980/Dead_Space/"
+  },
+  {
+    "title": "Dead Space 2",
+    "publisher": "Electronic Arts",
+    "developer": "Visceral Games",
+    "year": 2011,
+    "tags": [
+      "horror",
+      "shooter",
+      "3rd-person",
+      "singleplayer",
+      "sci-fi"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=776fi2I8e6U",
+    "franchise": "dead_space",
+    "steam": "https://store.steampowered.com/app/47780/Dead_Space_2"
+  },
+  {
+    "title": "Dead Space 3",
+    "publisher": "Electronic Arts",
+    "developer": "Visceral Games",
+    "year": 2013,
+    "tags": [
+      "horror",
+      "shooter",
+      "3rd-person",
+      "singleplayer",
+      "co-op",
+      "sci-fi"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=U356b_x0_4U",
+    "franchise": "dead_space",
+    "steam": "https://store.steampowered.com/app/1238060/Dead_Space_3"
+  },
+  {
+    "title": "F.E.A.R. (First Encounter Assault Recon)",
+    "publisher": "Vivendi Universal Games / Sierra (Windows), Warner Bros. Games (consoles)",
+    "developer": "Monolith Productions (PC), Day 1 Studios (Xbox 360 & PS3 ports)",
+    "year": 2005,
+    "tags": [
+      "horror",
+      "1st-person",
+      "singleplayer",
+      "multiplayer"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=ylyf9dfp2-c",
+    "franchise": "fear",
+    "steam": "https://store.steampowered.com/agecheck/app/21090/"
+  },
+  {
+    "title": "F.E.A.R. 2: Project Origin",
+    "publisher": "Warner Bros. Games",
+    "developer": "Monolith Productions",
+    "year": 2009,
+    "tags": [
+      "horror",
+      "1st-person",
+      "singleplayer"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=kBTnDwW3i48",
+    "franchise": "fear",
+    "steam": "https://store.steampowered.com/app/16450/FEAR_2_Project_Origin"
+  },
+  {
+    "title": "F.E.A.R. 3",
+    "publisher": "Warner Bros. Games",
+    "developer": "Day 1 Studios",
+    "year": 2011,
+    "tags": [
+      "horror",
+      "1st-person",
+      "singleplayer",
+      "co-op"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=Vpr_6O5iyls",
+    "franchise": "fear",
+    "steam": "https://store.steampowered.com/app/21100/FEAR_3/"
+  },
+  {
+    "title": "Maid of Sker",
+    "publisher": "Wales Interactive",
+    "developer": "Wales Interactive",
+    "year": 2020,
+    "tags": [
+      "horror",
+      "1st-person",
+      "stealth",
+      "singleplayer"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=cTbDOXIDZRo",
+    "franchise": "maid_of_sker",
+    "steam": "https://store.steampowered.com/app/826940/Maid_of_Sker/"
+  },
+  {
+    "title": "Moons of Madness",
+    "publisher": "Funcom",
+    "developer": "Rock Pocket Games",
+    "year": 2019,
+    "tags": [
+      "horror",
+      "1st-person",
+      "puzzle",
+      "singleplayer",
+      "sci-fi"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=YkhrCJF8Y4s",
+    "franchise": "Moons of Madness",
+    "steam": "https://store.steampowered.com/app/1012840/Moons_of_Madness"
+  },
+  {
+    "title": "Outlast",
+    "publisher": "Red Barrels",
+    "developer": "Red Barrels",
+    "year": 2013,
+    "tags": [
+      "horror",
+      "1st-person",
+      "stealth",
+      "singleplayer"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=uKA-IA4locM",
+    "franchise": "outlast",
+    "steam": "https://store.steampowered.com/app/238320/Outlast/ "
+  },
+  {
+    "title": "Outlast 2",
+    "publisher": "Red Barrels",
+    "developer": "Red Barrels",
+    "year": 2017,
+    "tags": [
+      "horror",
+      "1st-person",
+      "singleplayer"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=MKrUZ36IVAY",
+    "franchise": "outlast",
+    "steam": "https://store.steampowered.com/app/414700/Outlast_2/"
+  },
+  {
+    "title": "Resident Evil 7: Biohazard",
+    "publisher": "Capcom",
+    "developer": "Capcom",
+    "year": 2017,
+    "tags": [
+      "horror",
+      "shooter",
+      "1st-person",
+      "singleplayer"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=RgYqQsbKn6w",
+    "franchise": "resident_evil",
+    "steam": "https://store.steampowered.com/app/418370/Resident_Evil_7_Biohazard/"
+  },
+  {
+    "title": "Resident Evil 2 (2019 Remake)",
+    "tags": [
+      "horror",
+      "shooter",
+      "3rd-person",
+      "singleplayer"
+    ],
+    "franchise": "resident_evil"
+  },
+  {
+    "title": "Silent Hill 2 (2024 Remake)",
+    "publisher": "Konami",
+    "developer": "Bloober Team",
+    "year": 2024,
+    "tags": [
+      "horror",
+      "melee",
+      "3rd-person",
+      "singleplayer"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=-fsQjJmYx6U",
+    "franchise": "silent_hill",
+    "steam": "https://store.steampowered.com/app/2124490/SILENT_HILL_2/"
+  },
+  {
+    "title": "The Sinking City",
+    "publisher": "Bigben Interactive",
+    "developer": "Frogwares",
+    "year": 2019,
+    "tags": [
+      "horror",
+      "detective",
+      "3rd-person",
+      "open world",
+      "singleplayer",
+      "mystery"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=iXhw7OcPw8Y",
+    "franchise": "the_sinking_city",
+    "steam": "https://store.steampowered.com/app/750130/The_Sinking_City_Remastered/"
+  },
+  {
+    "title": "Murdered: Soul Suspect",
+    "publisher": "Square Enix",
+    "developer": "Airtight Games",
+    "year": 2014,
+    "tags": [
+      "horror",
+      "detective",
+      "3rd-person",
+      "singleplayer"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=1xH4_YGEBPo",
+    "franchise": "murdered_soul_suspect",
+    "steam": "https://store.steampowered.com/app/233290/Murdered_Soul_Suspect/"
+  },
+  {
+    "title": "Call of Cthulhu",
+    "publisher": "Focus Home Interactive",
+    "developer": "Cyanide",
+    "year": 2018,
+    "tags": [
+      "horror",
+      "detective",
+      "1st-person",
+      "singleplayer"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=QxPAm7sHbZQ",
+    "franchise": "call_of_cthulhu",
+    "steam": "https://store.steampowered.com/app/527230/Call_of_Cthulhu/"
+  },
+  {
+    "title": "Still Wakes the Deep",
+    "publisher": "Secret Mode",
+    "developer": "The Chinese Room",
+    "year": 2024,
+    "tags": [
+      "horror",
+      "1st-person",
+      "singleplayer",
+      "narrative"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=otQMSwqKU_Q",
+    "franchise": "still_wakes_the_deep",
+    "steam": "https://store.steampowered.com/app/1622910/Still_Wakes_the_Deep/"
+  },
+  {
+    "title": "Vampyr",
+    "publisher": "Focus Home Interactive",
+    "developer": "Dontnod Entertainment",
+    "year": 2018,
+    "tags": [
+      "horror",
+      "RPG",
+      "melee",
+      "open world",
+      "singleplayer"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=TdTcv3uUi1o",
+    "franchise": "vampyr",
+    "steam": "https://store.steampowered.com/app/427290/Vampyr/"
+  },
+  {
+    "title": "Little Nightmares",
+    "publisher": "Bandai Namco Entertainment",
+    "developer": "Tarsier Studios",
+    "year": 2017,
+    "tags": [
+      "horror",
+      "2.5D",
+      "stealth",
+      "puzzle-platformer",
+      "singleplayer"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=aOadxZBsPiA",
+    "franchise": "little_nightmares",
+    "steam": "https://store.steampowered.com/app/424840/Little_Nightmares"
+  },
+  {
+    "title": "Little Nightmares II",
+    "publisher": "Bandai Namco Entertainment",
+    "developer": "Tarsier Studios",
+    "year": 2021,
+    "tags": [
+      "horror",
+      "2.5D",
+      "stealth",
+      "puzzle-platformer",
+      "singleplayer"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=AI9zBBTyX-E",
+    "franchise": "little_nightmares",
+    "steam": "https://store.steampowered.com/app/860510/Little_Nightmares_II"
+  },
+  {
+    "title": "Little Nightmares III",
+    "publisher": "Bandai Namco Entertainment",
+    "developer": "Supermassive Games",
+    "year": 2025,
+    "tags": [
+      "horror",
+      "2.5D",
+      "stealth",
+      "puzzle-platformer",
+      "singleplayer",
+      "co-op"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=XFHOsobwFrA",
+    "franchise": "little_nightmares",
+    "steam": "https://store.steampowered.com/app/1392860/Little_Nightmares_III"
+  },
+  {
+    "title": "Limbo",
+    "publisher": "Microsoft Game Studios (initial), Playdead (self-published ports)",
+    "developer": "Playdead",
+    "year": 2010,
+    "tags": [
+      "horror",
+      "2D",
+      "puzzle-platform",
+      "singleplayer"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=Y4HSyVXKYz8",
+    "franchise": "limbo",
+    "steam": "https://store.steampowered.com/app/48000/LIMBO?snr=1_7_15__13"
+  }
 ]
