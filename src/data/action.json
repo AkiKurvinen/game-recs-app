@@ -446,7 +446,7 @@
       "3rd-person",
       "singleplayer"
     ],
-    "franchise": "god:of:was",
+    "franchise": "god_of_war",
     "steam": "https://store.steampowered.com/app/1593500/God_of_War/"
   },
   {
@@ -458,5 +458,27 @@
     ],
     "franchise": "cod",
     "steam": "https://store.steampowered.com/app/7940/Call_of_Duty_4_Modern_Warfare_2007/"
+  },
+  {
+    "title": "Spec Ops: The Line",
+    "tags": [
+      "extinct",
+      "action",
+      "linear",
+      "2rd-person",
+      "shooter",
+      "singleplayer"
+    ]
+  },
+  {
+    "title": "Syndicate",
+    "tags": [
+      "extinct",
+      "action",
+      "linear",
+      "1st-person",
+      "shooter",
+      "singleplayer"
+    ]
   }
 ]
