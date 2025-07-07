@@ -121,6 +121,15 @@
       "trailer": "https://www.youtube.com/watch?v=DKrnB9gJxjQ",
       "franchise": "werewolf_the_apocalypse",
       "steam": "https://store.steampowered.com/agecheck/app/679110/"
+    },  {
+      "title": "Battlefield Hardline",
+      "publisher": "Electronic Arts",
+      "developer": "Visceral Games",
+      "year": 2015,
+      "tags": ["action", "fps", "multiplayer", "cops vs criminals", "campaign", "modern"],
+      "trailer": "https://www.youtube.com/watch?v=yWVPoUCxAC4",
+      "franchise": "battlefield",
+      "steam": "https://store.steampowered.com/app/1238880/Battlefield_Hardline/"
     },
     {
       "title": "Batman: Arkham Knight",
